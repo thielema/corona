@@ -1,0 +1,567 @@
+#+TITLE: Corona Reader
+#+OPTIONS: toc:nil author:nil creator:nil email:nil
+#+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
+#+LATEX_HEADER: \hypersetup{colorlinks=false}
+
+* Vorwort
+
+Wahrscheinlich hat kein Ereignis seit dem 2. Weltkrieg so viele Mensch auf so
+dramatische Weise betroffen, wie die von der Weltgesundheitsorganisation (WHO)
+ausgerufene Covid-19 Pandemie. Keine Entscheidung, sei es im großen wie im
+privaten kann zur Zeit getroffen werden, ohne diese Pandemie und ihre Folgen
+zu berücksichtigen.
+
+Viele Menschen leider unter den Schutzmaßnahmen. Das Spektrum reicht von
+leichten aber massenweisen beeinträchtigungen des täglichen Lebens, über
+zerstörte Existenzen, verschobene dringende Behandlungen, Vereinsamung, Panik
+bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen oder die
+Medienpanik.
+
+Es ist daher berechtigt, sich ein wenig Zeit zu nehmen, über diese Pandemie
+nachzudenken.
+
+Im folgenden wird das Wort "Pandemie" der Einfachheit halber benutzt, ohne
+damit eine Wertung vorwegzunehmen, ob Covid-19 eine Pandemie sei.
+
+* Die Wahrheit suchen
+
+Wissenschaft geht immer davon aus, dass man Wahrheit nicht beweisen kann. Es
+ist lediglich möglich, falsche Aussagen zu identifizieren und somit falsche
+"Wahrheiten" zu widerlegen. Eine Theorie, die trotz redlichem Bemühens nicht
+widerlegt werden kann und die sich als nützlich herausstellt in dem Sinne,
+dass sie Vorhersagen und Erklärungen ermöglicht, wird dann als Annäherung an
+die Wahrheit benutzt.
+
+Grundlage aller Erkenntnis ist also der redliche Zweifel.
+
+Neue Erkenntnisse in Wissenschaft und Gesellschaft mussten sich oft gegen den
+erbitterten Widerstand der mächtigen Mehrheit durchsetzen.
+
+Es ist mir bewusst, dass Faktenfinder die Legitimität der Berufung auf den
+Zweifel bereits in Zweifel ziehen. Die interlektuelle Qualität dieser
+Argumentation ist offensichtlich.
+
+* Unvoreingenommenheit
+
+Jedes Nachdenken über die Pandemie steht vor der Herausforderung, sich von der
+Übermacht und Eindeutigkeit der vorherrschenden Sichtweise unabhängig zu
+machen. Es müssen zwei Fragen streng unabhängig voneinander betrachtet werden:
+
+a) Gibt es hinreichende Evidenz für eine hochgefährliche Jahrhundertpandemie?
+b) Wenn die Antwort auf a) "Nein" ist, wie kann dann das gleichgeschaltete
+Handeln und Kommunizieren so vieler Akteure erklärt werden?
+
+Falls man diese Fragen nicht voneinander trennt, bleibt man in einem
+Zirkelschluß gefangen:
+
+Weil die Pandemie so gefährlich ist, deswegen handeln und reden alle gleich.
+Alle reden und handeln gleich, deswegen muss die Pandemie gefährlich sein.
+
+* Zweifel
+
+Bevor ich die Fragen a) und b) behandele, beleuchte ich einige Punkte die es
+berechtigt erscheinen lassen, das Narrativ von der gefährlichen
+Jahundertpandemie zu bezweifeln.
+
+** Vergleich mit anderen Gefahren
+
+https://norberthaering.de/die-regenten-der-welt/krankenhauskeime-lockdown
+
+- Krankenhauskeime
+- Rauchen
+  - Das tödlichste Artefakt
+    https://www.nachdenkseiten.de/?p=48256
+  - Das tödlichste Artefakt – Gedanken zu Robert Proctors Buch über die Zigarettenkatastrophe
+    https://www.nachdenkseiten.de/?p=47523
+  - Hauptsache nikotinabhängig. Über die Gesundheitsgefahren des Tabakrauchens und des Gebrauchs von E-Inhalationsprodukten und Tabakerhitzern.
+    https://www.nachdenkseiten.de/?p=44820
+- Verkehr: Kein Tempo 130 auf Autobahnen
+- Pflegenotstand herrscht seit Jahren und wurde auch jetzt nicht gelöst
+- Wichtigste Todesursachen in Industriestaaten nach Manfred Spitzer: Diabetes,
+  Übergewicht, Bluthochdruck. Wird etwas gegen Zucker getan?
+- Die Folgen des Digitalkonsums sind gravierend, werden aber nicht bekämpft
+  sondern noch durch Steuergelder unterstützt, siehe Manfred Spitzer. Dies
+  zeigt auch, dass die Digitalkonzerne, die sich jetzt mit Apps als Helfer
+  gegen das Virus andienen, nicht an der Gesundheit der Bevölkerung
+  interessiert sind.
+  - Der Digitalpakt wird unseren Kindern sehr schaden. Eigentlich unverantwortlich.
+    https://www.nachdenkseiten.de/?p=49485
+- Alkoholmissbrauch wird nicht konsequent bekämpft
+
+Den Gesundheitsschutz in den Mittelpunkt stellen? Na, dann fangen wir doch mal damit an …
+https://www.nachdenkseiten.de/?p=60198
+
+** Glaubwürdigkeit der Protagonisten
+
+Drosden, Ferguson
+https://www.nachdenkseiten.de/?p=66244
+
+https://www.nachdenkseiten.de/?p=66268
+
+*** Karl Lauterbach
+
+Lauterbach fordert Kontrollen in Privatwohnungen
+https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbach-fordert-Kontrollen-in-Privatwohnungen.html
+
+** Art der Kommunikation
+
+- Diffamierung
+- Unlaute Methoden, z.B. Vergleich mit Chemtrails, Echsenmenschen
+- Keine saubere Verwendung von Begriffen: Testpositiv, infiziert, krank
+- Absolutzahlen
+- Reihenweises zensieren auf Youtube
+
+** Panikpapier aus Deutschland und Österreich
+
+** PCR Tests
+
+Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
+nahm stattdessen aus seiner Datenbank typische Genfragmente eines Coronavirus,
+entwickelte für diesen einen Test und schickte den Test nach Wuhan. Weil der
+Test bei Patienten in Wuhan positiv war, behauptete er, dass der Test geeignet
+sei, das neue SARS CoV-2 Virus nachzuweisen.
+
+Er behauptet, dass dieses Verfahren gerechtfertigt sei, weil seit Jahren keine
+SARS Viren mehr bei Menschen zirkulieren würden.
+
+Das Virus ist bis heute von niemandem isoliert worden.
+
+- 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
+  https://www.youtube.com/watch?v=cFAq8CqN1Gg
+- Drosten 2014, PCR Tests viel zu empfindlich "Ja, aber die Methode ist so
+  empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus nachweisen
+  kann. Wenn ein solcher Erreger zum Beispiel bei einer Krankenschwester mal
+  eben einen Tag lang über die Nasenschleimhaut huscht, ohne dass sie erkrankt
+  oder sonst irgend etwas davon bemerkt, dann ist sie plötzlich ein
+  Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun plötzlich milde
+  Fälle und Menschen, die eigentlich kerngesund sind, in der Meldestatistik
+  enthalten. Auch so ließe sich die Explosion der Fallzahlen in Saudi-Arabien
+  erklären. Dazu kommt, dass die Medien vor Ort die Sache unglaublich hoch
+  gekocht haben."
+  https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html
+- Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
+  Labor macht sein eigenes Testverfahren.
+  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests/
+- PCR Tests sind für Diagnosen nicht zugelassen.
+- Es wird mit viel zu hoher Sensibilität getestet
+  - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
+    Nachweis eines einzelnen Gens je nach Spezifität als positiv für
+    SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
+    empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
+    https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert
+
+** Keine ausreichende Diskussion
+
+Folgende Experten würden gerne an einer öffentlichen Debatte mitwirken und
+bekommen diese Möglichkeit nicht.
+
+Das Land Bayern hat keine Akten über die Grundlagen der Verordnungen:
+https://www.heise.de/tp/features/Bayerische-Regierung-hat-angeblich-keine-Akten-zu-Corona-Beschluessen-4903549.html
+https://www.ckb-anwaelte.de/corona-update-17-august-2020/
+
+*** Experten
+
+- https://en.wikipedia.org/wiki/Sunetra_Gupta prof. theoretical
+epidemiology, Oxford
+- https://en.wikipedia.org/wiki/Karin_M%C3%B6lling prof. virologist, Zurich
+- https://en.wikipedia.org/wiki/Anders_Tegnell State Epidemiologist, Sweden
+- Dr Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+Université Pierre et Marie Curie in Paris
+- https://profiles.stanford.edu/eran-bendavid Prof Stanford
+- https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya Prof Stanford
+- https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist) advisor
+to the Italian National Agency for Regional Health Services
+- https://en.wikipedia.org/wiki/Michael_Levitt 2013 Nobel Prize in Chemistry
+- Dr Richard Schabas Chief of Staff at York Central Hospital
+- https://en.wikipedia.org/wiki/John_Lee_(pathologist)
+- https://en.wikipedia.org/wiki/John_Oxford
+- Prof Knut Wittkowski, censored by YT: https://youtu.be/lGC5sGdz4kg
+https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown/
+- https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel prof. of forensics at Essen
+- https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9
+- Dr Claus Köhnlein
+- https://www.researchgate.net/profile/Gerard_Krause
+- Dr Gerd Gigerenzer, professor of psychology, Berlin
+- https://de.wikipedia.org/wiki/Sucharit_Bhakdi head of the Institute
+for Medical Microbiology and Hygiene
+- Dr Joel Kettner prof. of Community Health Sciences and Surgery at Manitoba
+- https://en.wikipedia.org/wiki/Yoram_Lass
+- Dr Pietro Vernazza Prof Health Policy, St. Gallen
+- https://de.wikipedia.org/wiki/Frank_Ulrich_Montgomery
+- Dr Yanis Roussel
+- https://en.wikipedia.org/wiki/David_L._Katz
+- https://en.wikipedia.org/wiki/Michael_Osterholm
+- https://en.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche
+
+Überblick zu kritischen Experten (Englisch):
+https://off-guardian.org/category/covexperts
+
+**** John Ioannidis
+
+Meistzitierter Wissenschaftler der Welt?
+
+https://en.wikipedia.org/wiki/John_Ioannidis prof Stanford
+
+Sterblichkeitsrate maximal 0,31% mit großen regionalen Unterschieden
+https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
+https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html
+
+**** Pietro Vernazza
+
+Chefarzt Infektiologie Kantonsspital St. Gallen
+
+Empfiehlt Ende Juli "kontrollierte Durchseuchung der Bevölkerung",
+denn das Virus scheine "weniger gefährlich als gemeinhin vermutet".
+
+https://www.tagesanzeiger.ch/taskforce-will-vernazza-bremsen-763196868871
+
+**** Wolfgang Wodarg
+
+Prof. Dr. Martin Schwab, Juraprofessor Bielefeld hat ein umfangreiches Dosier
+zur Verteidigung von Herrn Wodarg erstellt. Das Dossier enthält auch
+umfangreiche Analysen, welche Aussagen von Wodarg nach jetzigem Wissensstand
+als belegt angesehen werden können:
+http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf
+
+**** Walter Plassmann
+
+Chef der Kassenärztlichen Vereinigung in Hamburg
+
+https://www.focus.de/regional/hamburg/interview-mit-focus-online-hamburger-aerzte-chef-legt-gegen-virus-panikmacher-nach-es-ist-immer-ganz-ganz-schlimm_id_12459301.html
+
+"Ich glaube, wir hätten den Lockdown nach zwei bis drei Wochen beenden und den
+schwedischen Weg gehen sollen. Aber das ist vergossene Milch."
+
+*** Positionspapiere, Gruppen, Verbände
+
+**** 2020-04-14 Aerzte/innen mit blick aufs ganze (AMBAG)
+
+Positionspapier dokumentier im Film "Unerhört!", 25:00. Forderung nach
+Lockerungen des Lockdowns. Unterschrieben von 89 namentlich genannten Ärzten,
+21 anoynmen Unterzeichnenden.
+
+Nur ein Schweizer Medium berichtet:
+https://www.tagesanzeiger.ch/die-gefahr-fuer-die-patienten-wird-immer-groesser-954912313492
+
+**** 2020-09-08 COVID-19: Wo ist die Evidenz?
+
+https://www.ebm-netzwerk.de/de/veroeffentlichungen/covid-19
+
+"Die mediale Berichterstattung sollte unbedingt die von uns geforderten
+Kriterien einer evidenzbasierten Risikokommunikation beherzigen und die
+irreführenden Meldungen von Absolutzahlen ohne Bezugsgröße beenden.
+
+[...]
+
+Es gibt insgesamt noch sehr wenig belastbare Evidenz, weder zu COVID-19 selbst
+noch zur Effektivität der derzeit ergriffenen Maßnahmen, aber es ist nicht
+auszuschließen, dass die trotz weitgehend fehlender Evidenz ergriffenen
+Maßnahmen inzwischen größeren Schaden anrichten könnten als das Virus
+selbst. Jegliche Maßnahmen sollten entsprechend wissenschaftlich begleitet
+werden, um den Nutzen und Schaden bzw. das Verhältnis von Nutzen und Schaden
+zu dokumentieren."
+
+**** 2020-10-28 Positionspapier von Wissenschaft und Ärzteschaft zur Strategieanpassung im Umgang mit der Pandemie
+
+https://www.kbv.de/html/48910.php
+
+Zusammenfassung der Kernthesen
+
+- Abkehr von der Eindämmung alleine durch Kontaktpersonennachverfolgung.
+- Einführung eines bundesweit einheitlichen Ampelsystems anhand dessen sowohl
+  auf Bundes- als auch auf Kreisebene die aktuelle Lage auf einen Blick
+  erkennbar wird.
+- Fokussierung der Ressourcen auf den spezifischen Schutz der
+  Bevölkerungsgruppen, die ein hohes Risiko für schwere Krankheitsverläufe
+  haben.
+- Gebotskultur an erste Stelle in die Risikokommunikation setzen.
+
+"Der Rückgang der Fallzahlen ist politisch zwar eine dringende Aufgabe, aber
+nicht um jeden Preis. Wir erleben bereits die Unterlassung anderer dringlicher
+medizinischer Behandlungen, ernstzunehmende Nebenwirkungen bei Kindern und
+Jugendlichen durch soziale Deprivation und Brüche in Bildungs- und
+Berufsausbildungsgängen, den Niedergang ganzer Wirtschaftszweige, vieler
+kultureller Einrichtungen und eine zunehmende soziale Schieflage als Folge."
+
+BETEILIGTE
+
+- Kassenärztliche Bundesvereinigung
+- Prof. Hendrik Streeck, Direktor des Instituts für Virologie der Universität
+  Bonn
+- Prof. Jonas Schmidt-Chanasit, Leiter der Abteilung Arbovirologie am
+  Bernhard-Nocht-Institut für Tropenmedizin in Hamburg
+
+Unterstützt von 30 Verbänden und Vereinen.
+
+** Prominente Kritiker, aber keine Experten
+
+*** David Claudio Siber
+Grünenpolitiker aus Flensburg, wurde aus der Ratsfraktion ausgeschlossen
+nachdem er auf der Demonstration in Berlin gesprochen hat. Er hat versucht
+innerhalb der Grünen Partei ein offene Diskussion zu bewirken. Er erfuhr auch,
+dass die Grüne Bundestagsfraktion sich ausschließlich von Drosten über Corona
+informieren ließ und keine zweite Meinung einholte.
+
+https://www.ndr.de/nachrichten/schleswig-holstein/coronavirus/Nach-Corona-Demo-Flensburgs-Gruenen-Politiker-Siber-wehrt-sich,siber100.html
+
+https://david-claudio-siber.de/studien
+
+*** Thomas Berthold
+
+https://www.youtube.com/watch?v=3p41XxbwZP0
+https://www.youtube.com/watch?v=lO3-SKBu6VM
+https://www.swr.de/sport/fussball/thomas-berthold-corona-skeptiker-100.html
+
+Bild-Zeitung kündigt Zusammenarbeit nach Rede auf Demo in
+Berlin. Wikipedia-Artikel wird verändert und bezeichnet Berthold als
+Antisemiten.
+
+Er erlebt aber viele Zustimmung von Menschen die ihn auf der Straße
+ansprechen.
+
+*** Wolfgang Kubicki
+
+2020-10-29 „Der Lockdown light atmet einen undemokratischen Geist“
+
+https://www.tagesspiegel.de/politik/neue-corona-regeln-der-lockdown-light-atmet-einen-undemokratischen-geist/26567648.html
+
+** Die Maßnahmen
+
+*** Ignorieren von Gerichtsurteilen
+
+Von Gerichten gekippte Maßnahmen werden in gleicher Form wieder verabschiedet.
+
+- Beherbergungsverbot
+  https://www.tagesschau.de/inland/beherbergungsverbot-brandenburg-103.html
+- Sperrstunden
+  https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/gericht_kippt_sperrstunde_saarland_100.html
+
+*** Lockdown
+
+Film "Unerhört!", Prof. Michael Levitt, Nobelpreisträger für Chemie, Stanford
+Universität [ab Minute 29, transkribiert]: “Es gibt ein weiteres Risiko:
+Rezessionen töten Menschen. Bei einer Rezession steigt die Sterberate. Eine
+harte Rezession ist sicher gefährlicher als Covid-19. […] Lockdown klingt gut,
+aber die WHO hat ihn nie empfohlen. Es ist eine mittelalterliche Maßnahme,
+recht primitiv. Besser ist, den Menschen zu sagen, haltet Abstand, mindestens
+drei Meter. Und wenn sich die Lage verbessert, zwei Meter, eineinhalb…”
+
+*** Allgemeine Maskenpflicht
+
+Es gibt große Variationen in der Wirksamkeit zwischen Stoffmasken und
+medizinischen Masken gibt. Trotzdem wird ohne weitere Differenzierung nur eine
+Mund-Nasen-Bedeckung gefordert. Eine Wirksamkeit ist also nicht der Hauptzweck
+der Maskenpflicht.
+
+*** Schulschließungen
+
+*** Reisebeschränkungen
+
+*** Maßnahmen die nicht diskutiert wurden
+
+- Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
+- Erhöhung des Pflegepersonals
+- Spaziergänge an der frischen Luft
+- Besondere Ladenöffnungszeiten für alte Menschen
+
+* Ist es eine Pandemie?
+** Sterblichkeit
+
+Die WHO erklärt selber Anfang Oktober, dass bisher etwa 10% aller Menschen
+weltweit inifziert wurden:
+https://off-guardian.org/2020/10/08/who-accidentally-confirms-covid-is-no-more-dangerous-than-flu
+
+"Our current best estimates tell us that about ten percent of the global
+population may have been infected by this virus. This varies depending on
+country, it varies from urban to rural, it varies between different groups." -
+Dr. Michael Ryan, Executive Director, WHO Health Emergencies Programme
+
+Global Deaths, 29.10.2020 gemäß Dashboard der Johns Hopkins Universität:
+1,176,726
+https://coronavirus.jhu.edu/map.html
+
+Weltbevölkerung: 7,8 Milliarden Menschen
+
+Dreisatz: 1.176.726 / (7,8E9 * 10%) = 0,15%
+
+Sterblichkeit der gewöhnlichen Grippe (Influenza): 0,1% - 0,2%
+
+https://de.wikipedia.org/wiki/Influenza#Todesf%C3%A4lle
+https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher/
+
+** Positivrate
+
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-08-26-de.pdf
+
+Die Positivenquoten seit der Kalenderwoche 22 (25. Mai) sind:
+1,06 0,94 0,86 1,37 0,79 0,61 0,59 0,65 0,79 0,98 1,00 0,97 0,88
+
+Nach meinen Informationen liegt die Rate der falschen Positiven Testergebnisse
+auch im Bereich von einem Prozent. Es ist also sehr abenteuerlich, mit solchen
+Zahlen von einer Pandemie zu sprechen.
+
+** Übersterblichkeit
+
+*** Deutschland
+
+https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html
+
+In der Übersicht der Einzeljahre sieht man deutlich, dass die Sterblichkeit in 2018 höher war:
+
+https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016
+
+*** Andere Länder
+
+https://ourworldindata.org/excess-mortality-covid#excess-mortality-using-raw-death-counts
+
+Die Grafiken zeigen, dass nicht alle Länder eine erhöhte Sterblichkeit in 2020 aufweisen.
+
+10 Länder haben eine deutlich höhere Sterblichkeit für 2020: Belgium, Chile,
+England & Wales, France, Italy, Netherlands, Scotland, Spain, Sweden, United
+States
+
+19 Länder haben keine höhere Sterblichkeit für 2020: Austria, Bulgaria,
+Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary,
+Iceland, Israel, Latvia, Lithuania, Norway, Poland, Slovakia, Slovenia, South
+Korea,
+
+Für Portugal und die Schweiz ist der Graph nicht eindeutig. Wichtige Länder
+fehlen auf der Seite: China, Russia, Belarus, Brasil, Venezuela, Australia.
+
+* Was ist es dann?
+
+Das World Economic Forum (WEF) ist eine Art Dachverband der reichsten und
+mächtigsten Menschen der Erde. Wichtige und bekannte Mitglieder sind vor allem:
+
+- Bill Gates, lange reichster Mensch, nun die Nr. 2 nach Jeff Bezos. 98 Milliarden US-Dollar
+- Warren Buffet, 67,5 Milliarden. Unterstützer der Bill und Melinda Gates Foundation
+- George Soros, nur 8,6 Milliarden aber Gründer der einflußreichen Open Society Foundation
+
+Weitere Gönner des WEF:
+https://www.weforum.org/agenda/2015/10/the-20-most-generous-people-in-the-world
+
+Das WEF versteht sich als Netzwerk zur Verbesserung der Welt. So hat man dort
+auch Greta Thunberg eingeladen. Die Reichen sind sich der vielfältigen
+Probleme der Welt sehr bewusst und wollen diese auch lösen. Allerdings wollen
+sie diejenigen sein, die über die Lösung entscheiden. Dann können sie auch
+sicherstellen, dass ihnen die Lösung nicht wehtut. Besser noch, sie können
+Lösungen umsetzen, von denen sie profitieren.
+
+Das Thema der Weltrettung ist "Stakeholder Value statt Shareholder Value". In
+der alten Vorstellung des Shareholder Values (Interessen der Aktienbesitzer)
+orientiert sich ein Unternehmen ausschließlich am finanziellen Gewinn.
+
+Ein Stakeholder ist dagegen jeder, der ein Interesse an dem Unternehmen und
+dessen Geschäftsfeld hat. Das schließt die Mitarbeiter und Kunden ein. Bei
+internationalen Großkonzernen wie Amazon, Google oder Facebook dagegen sind
+alle Menschen die Stakeholder.
+
+Man könnte sich nun naiv darüber freuen, dass Unternehmen sich nicht mehr nur
+am finanziellen Gewinn orientieren wollen. In der Realität allerdings
+beanspruchen die Unternehmen nun die Entscheidungsbefugnis über alle Bereiche
+der Gesellschaft, weit über ihr eigenes Unternehmen hinaus.
+
+Siehe den Bericht des Deutschlandfunk zur Eröffnung des WEF in Davos am
+20.1.2020: "Von der Verantwortung der Unternehmen Allgemeinwohl
+vs. Aktionärswohl"
+https://www.deutschlandfunkkultur.de/stakeholder-value-und-shareholder-value-sind-kein.1008.de.html?dram:article_id=161716
+
+Das WEF hat im Juni 2020 eine umfangreiche Webseite unter dem Titel "The Great
+Reset" (Der große Neustart) veröffentlicht, dass für viele Bereiche aufzeigt,
+wie die neue Welt aussehen soll:
+https://www.weforum.org/great-reset
+https://www.weforum.org/agenda/2020/06/now-is-the-time-for-a-great-reset/
+
+** ID2020 / Digital Identity Alliance
+
+https://id2020.org
+
+Alle Menschen sollen eine weltweit eindeutige, zentral verwaltete digitale
+Identität erhalten, die mit allen ihren wichtigen Daten verknüft wird.
+
+- 2020-10-19: Kommt die überwachte Gesellschaft? deutschlandfunkkultur.de
+  https://www.deutschlandfunkkultur.de/digitale-identitaet-kommt-die-ueberwachte-gesellschaft.976.de.html?dram:article_id=486012
+- Mitglieder: Microsoft, Rockefeller Foundation, Gavi (The Vaccine Alliance),
+  Mastercard, Care.org, ...
+- 2020-03-24, Bill Gates: 33:25 “Eventually, what we'll have to have is
+  certificates of who is a recovered person, who is a vaccinated person,
+  because you don't want people moving around the world -- where you'll have
+  some countries that won't have it under control, sadly -- you don't want to
+  completely block off the ability for those people to go there and come back
+  and move around.”
+  https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic/transcript
+- SRF: Globale E-ID Initiativen – ihre Möglichkeiten und Grenzen. Podcast
+  https://www.srf.ch/play/radio/kontext/audio/globale-e-id-initiativen---ihre-moeglichkeiten-und-grenzen?id=83db5967-74ff-4cf7-b22a-d7aa7ee712e5
+- Norbert Häring: Hörempfehlung: Bericht des Schweizer Rundfunks über ID2020, Known Traveller und Co.
+  https://norberthaering.de/die-regenten-der-welt/srf-id2020
+
+** Better Than Cash initiative
+
+https://betterthancash.org
+
+Mitglieder: Bill & Melinda Gates Foundation, Care.org, Clinton Development
+Initiative, Mastercard, … (75 total)
+
+Die Initiative bemüht sich um die Verdrängung des Bargelds durch digitale
+Zahlungsmittel. Dies erlaubt eine weitere Überwachung und wiederum neue
+Geschäftsfelder auf Basis der gewonnenen Daten.
+
+** Aber warum liest und hört man nichts?
+
+- Millionenhilfe für Verlage -
+  Deutschland steigt in die direkte Presseförderung ein
+  https://www.deutschlandfunk.de/millionenhilfe-fuer-verlage-deutschland-steigt-in-die.2907.de.html?dram:article_id=486614
+- Spenden der Bill und Melinda Gates Foundation an Verlage
+  - Spiegel Online, 2018, $2,537,294
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2018/12/OPP1203082
+  - Guardian News & Media Ltd, 2011-2020, ca $14.5 Millionen
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database#q/k=guardian
+  - Financial Times Ltd, $503,341 + $1,344,444 + $462,060
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/11/OPP1134848
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1161256
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2020/10/INV-019471
+  - Solutions Journalism Network Inc
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2018/09/OPP1195811
+- "Google hat den europäischen Journalismus seit 2013 mit mehr als 200
+  Millionen Euro gefördert."
+  https://www.diepresse.com/5888372/200-millionen-euro-von-google-fur-journalismus-in-europa
+  "Inzwischen ist die News Initiative sogar ein weltweites Unterfangen,
+  ausgestattet mit weiteren 300 Millionen Dollar."
+  https://netzpolitik.org/2020/wie-der-datenkonzern-den-journalismus-umgarnt/
+
+Medien versagen regelmäßig bei entscheidenden Themen:
+
+- Brutkastenlüge Irakkrieg 1
+- Chemiewaffenlüge Irakkrieg 2
+- Hufeisenplanlüge Kosovokrieg
+- NATO Sichtweise zu Putschen oder Putschversuchen in Bolivien, Venezuela,
+  Syrien, Ukraine, Weißrussland, Hongkong, ...
+- Lügen zur angeblichen Notwendigkeit der privaten Altersvorsorge
+
+** Aber es können doch nicht alle Wissenschaftler falsch?
+
+- Drittmittelabhängigkeit
+- Ohne die BMGF geht im medizinischen Bereich weltweit nichts.
+- Außerdem gibt es viele Wissenschaftler, die widersprechen, vor allem solche,
+  die ihre Karriere hinter sich haben.
+
+* Weitere Links
+
+- https://swprs.org/fakten-zu-covid-19
+- https://corona-ausschuss.de
+- Unerhört! Film: https://vimeo.com/471959768
+  - Das volle Interview mit dem spanischen Krankenhausarzt
+    https://www.youtube.com/watch?v=wl9h-7MaLws
+- https://www.ckb-anwaelte.de/blog
+- https://elternstehenauf.de
+- https://www.initiative-corona.info
+- Film: Profiteure der Angst. Arte Doku
+  https://www.youtube.com/watch?v=ZkyL4NxJJcc
+  https://www.youtube.com/watch?v=1wP4-Z_lvyE
+  Kurzfassung: https://www.youtube.com/watch?v=vCz34z3ymyY
+- http://www.aerzteklaerenauf.de
+- https://www.ärzte-für-aufklärung.de
+
+# Local Variables:
+# org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true }\n"
+# End:
