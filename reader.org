@@ -8,26 +8,27 @@
 Wahrscheinlich hat kein Ereignis seit dem 2. Weltkrieg so viele Mensch auf so
 dramatische Weise betroffen, wie die von der Weltgesundheitsorganisation (WHO)
 ausgerufene Covid-19 Pandemie. Keine Entscheidung, sei es im großen wie im
-privaten kann zur Zeit getroffen werden, ohne diese Pandemie und ihre Folgen
-zu berücksichtigen.
+privaten kann zur Zeit getroffen werden, ohne die Pandemie und ihre Folgen zu
+berücksichtigen.
 
 Viele Menschen leider unter den Schutzmaßnahmen. Das Spektrum reicht von
 leichten aber massenweisen beeinträchtigungen des täglichen Lebens, über
 zerstörte Existenzen, verschobene dringende Behandlungen, Vereinsamung, Panik
-bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen oder die
-Medienpanik.
+bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen. Auch die Panik
+widerum hat negative Folgen.
 
 Es ist daher berechtigt, sich ein wenig Zeit zu nehmen, über diese Pandemie
 nachzudenken.
 
 Im folgenden wird das Wort "Pandemie" der Einfachheit halber benutzt, ohne
-damit eine Wertung vorwegzunehmen, ob Covid-19 eine Pandemie sei.
+damit eine Wertung vorwegzunehmen, ob Covid-19 tatsächlich als Pandemie
+bezeichnet werden sollte.
 
 * Die Wahrheit suchen
 
 Wissenschaft geht immer davon aus, dass man Wahrheit nicht beweisen kann. Es
-ist lediglich möglich, falsche Aussagen zu identifizieren und somit falsche
-"Wahrheiten" zu widerlegen. Eine Theorie, die trotz redlichem Bemühens nicht
+ist lediglich möglich, falsche Aussagen zu identifizieren und somit
+Falschaussagen zu widerlegen. Eine Theorie, die trotz redlichem Bemühens nicht
 widerlegt werden kann und die sich als nützlich herausstellt in dem Sinne,
 dass sie Vorhersagen und Erklärungen ermöglicht, wird dann als Annäherung an
 die Wahrheit benutzt.
@@ -47,61 +48,134 @@ Jedes Nachdenken über die Pandemie steht vor der Herausforderung, sich von der
 Übermacht und Eindeutigkeit der vorherrschenden Sichtweise unabhängig zu
 machen. Es müssen zwei Fragen streng unabhängig voneinander betrachtet werden:
 
-a) Gibt es hinreichende Evidenz für eine hochgefährliche Jahrhundertpandemie?
-b) Wenn die Antwort auf a) "Nein" ist, wie kann dann das gleichgeschaltete
-Handeln und Kommunizieren so vieler Akteure erklärt werden?
+ 1. Gibt es hinreichende Evidenz für eine hochgefährliche Jahrhundertpandemie?
+ 2. Wenn die Antwort auf den ersten Punkt "Nein" ist, wie kann dann das
+    gleichgeschaltete und agressive Handeln und Kommunizieren so vieler
+    Akteure erklärt werden?
 
 Falls man diese Fragen nicht voneinander trennt, bleibt man in einem
 Zirkelschluß gefangen:
 
-Weil die Pandemie so gefährlich ist, deswegen handeln und reden alle gleich.
-Alle reden und handeln gleich, deswegen muss die Pandemie gefährlich sein.
+ 1. Weil die Pandemie so gefährlich ist, deswegen handeln und reden alle
+    gleich.
+ 2. Alle reden und handeln gleich, deswegen muss die Pandemie gefährlich sein.
 
 * Zweifel
 
-Bevor ich die Fragen a) und b) behandele, beleuchte ich einige Punkte die es
-berechtigt erscheinen lassen, das Narrativ von der gefährlichen
-Jahundertpandemie zu bezweifeln.
+Bevor die beiden Fragen nach der Evidenz und der Erklärung für die
+Gleichschaltung beantwortet werden, sollen zunächst Gründe für berechtigten
+Zweifel an der offiziellen Geschichte betrachtet werden.
 
 ** Vergleich mit anderen Gefahren
 
+Politiker und Medien behaupten, im Interesse der allgemeinen Gesundheit zu
+handeln. Jedem kritischen Zeitgenossen fällt aber sofort auf, dass bisherige
+Bedrohungen der Gesundheit nicht zu entsprechenden Reaktionen führten.
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=60198][Den Gesundheitsschutz in den Mittelpunkt stellen? Na, dann
+fangen wir doch mal damit an …]]
+
+*** Krankenhauskeime
+
 https://norberthaering.de/die-regenten-der-welt/krankenhauskeime-lockdown
 
-- Krankenhauskeime
-- Rauchen
-  - Das tödlichste Artefakt
-    https://www.nachdenkseiten.de/?p=48256
-  - Das tödlichste Artefakt – Gedanken zu Robert Proctors Buch über die Zigarettenkatastrophe
-    https://www.nachdenkseiten.de/?p=47523
-  - Hauptsache nikotinabhängig. Über die Gesundheitsgefahren des Tabakrauchens und des Gebrauchs von E-Inhalationsprodukten und Tabakerhitzern.
-    https://www.nachdenkseiten.de/?p=44820
-- Verkehr: Kein Tempo 130 auf Autobahnen
-- Pflegenotstand herrscht seit Jahren und wurde auch jetzt nicht gelöst
-- Wichtigste Todesursachen in Industriestaaten nach Manfred Spitzer: Diabetes,
-  Übergewicht, Bluthochdruck. Wird etwas gegen Zucker getan?
-- Die Folgen des Digitalkonsums sind gravierend, werden aber nicht bekämpft
-  sondern noch durch Steuergelder unterstützt, siehe Manfred Spitzer. Dies
-  zeigt auch, dass die Digitalkonzerne, die sich jetzt mit Apps als Helfer
-  gegen das Virus andienen, nicht an der Gesundheit der Bevölkerung
-  interessiert sind.
-  - Der Digitalpakt wird unseren Kindern sehr schaden. Eigentlich unverantwortlich.
-    https://www.nachdenkseiten.de/?p=49485
-- Alkoholmissbrauch wird nicht konsequent bekämpft
+An Krankenhauskeimen sterben nach Informationen des RKI in Deutschland Jahr
+für Jahr 10.000 bis 20.000 Menschen:
+[[https://www.rki.de/SharedDocs/FAQ/Krankenhausinfektionen-und-Antibiotikaresistenz/FAQ_Liste.html][Antworten auf häufig gestellte Fragen zu Krankenhausinfektionen und Antibiotikaresistenz]]
 
-Den Gesundheitsschutz in den Mittelpunkt stellen? Na, dann fangen wir doch mal damit an …
-https://www.nachdenkseiten.de/?p=60198
+Tögliche Krankenhauskeime könnten durch Mehrausgaben sowie das Verbot von
+Antibiotika in der Tierhaltung bekämpft werden. Im Vergleich zu den Maßnahmen
+gegen Corona, sind dies kleine Maßnahmen.
+
+Kommentar von Norbert Häring: [[https://norberthaering.de/die-regenten-der-welt/krankenhauskeime-lockdown][Tote durch Corona, Krankenhauskeime und Tabak:
+Hier retten auf Teufel komm raus, da Achselzucken]]
+
+Siehe auch: [[https://www.aerzte-gegen-massentierhaltung.de][Ärzte gegen Massentierhaltung e.V.]]
+
+*** Rauchen
+
+- Das tödlichste Artefakt https://www.nachdenkseiten.de/?p=48256
+- Das tödlichste Artefakt – Gedanken zu Robert Proctors Buch über die
+  Zigarettenkatastrophe https://www.nachdenkseiten.de/?p=47523
+- Hauptsache nikotinabhängig. Über die Gesundheitsgefahren des Tabakrauchens
+  und des Gebrauchs von E-Inhalationsprodukten und Tabakerhitzern.
+  https://www.nachdenkseiten.de/?p=44820
+
+*** Alkohol
+
+Alkoholmissbrauch wird nicht konsequent bekämpft. Stattdessen gibt es
+Alkopops.
+
+WHO: "In 2016, the harmful use of alcohol resulted in some 3 million deaths
+(5.3% of all deaths) worldwide" - [[https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1][Global status report on alcohol and health
+2018]]
+
+*** Feinstaub
+
+Deutsche Welle: "Feinstaub, Stickstoffdioxid, bodennahes Ozon und andere
+Luftschadstoffe haben im Jahr 2016 mehr als 400.000 vorzeitige Todesfälle in
+Europa verursacht." - [[https://www.dw.com/de/studie-feinstaub-f%C3%BChrt-zu-zahlreichen-vorzeitigen-todesf%C3%A4llen/a-50855047][Studie: Feinstaub führt zu zahlreichen vorzeitigen
+Todesfällen]].
+
+*** Pflegenotstand
+
+Pflegenotstand herrscht seit Jahren. Außer Beifall zu klatschen ist auch in
+Folge der "Pandemie" nichts geschehen.
+
+*** Zivilisationskrankheiten: Diabetes, Übergewicht, Bluthochdruck
+
+Wichtigste Todesursachen in Industriestaaten nach Manfred Spitzer: Diabetes,
+Übergewicht, Bluthochdruck. Wird etwas gegen Zucker getan?
+
+Interessant ist, dass die Bill und Melinda Gates Foundation (BMGF) mindestens
+bis 2015 über 2 Milliarden US-Dollar in Coca-Cola und McDonald's investierte:
+[[https://philanthropynewsdigest.org/news/gates-foundation-divests-from-mcdonald-s-coca-cola-exxon][Gates Foundation Divests From McDonald's, Coca-Cola, Exxon]].
+
+*** Digitalisierung und Kinder
+
+Die Folgen des Digitalkonsums sind gravierend, werden aber nicht bekämpft
+sondern noch durch Steuergelder unterstützt, siehe Manfred Spitzer. Dies
+zeigt auch, dass die Digitalkonzerne, die sich jetzt mit Apps als Helfer
+gegen das Virus andienen, nicht an der Gesundheit der Bevölkerung
+interessiert sind.
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=49485][Der Digitalpakt wird unseren Kindern sehr schaden. Eigentlich
+unverantwortlich.]]
 
 ** Glaubwürdigkeit der Protagonisten
 
-Drosden, Ferguson
-https://www.nachdenkseiten.de/?p=66244
+*** Bill Gates
 
-https://www.nachdenkseiten.de/?p=66268
+- 2016-01-31, Telepolis: [[https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html][Bill Gates zwischen Schein und Sein]]
+- 19.12.2018, Netfrauen.org: [[https://netzfrauen.org/2018/12/19/who/][Ein gefährliches Netzwerk und unsägliche Allianz
+  – Bill Gates und die WHO]]
+- 2019. FR: [[https://www.fr.de/wirtschaft/privatisierung-weltrettung-11077887.html][Die Privatisierung der Weltrettung]]
+- 2020-05-23, finanzmarktwelt: [[https://finanzmarktwelt.de/bill-gates-stiftung-in-der-kritik-wie-gesund-ist-seine-macht-faktencheck-168318][Bill Gates Stiftung in der Kritik: Wie gesund
+  ist seine Macht? Faktencheck]]
+
+*** Christian Drosten
+
+Drosden zur Schweinegrippe 2009: "Es gebe eine dramatische Zunahme der
+Erkrankungen in Süddeutschland, stellte der Leiter des Instituts für Virologie
+der Universitätsklinik Bonn, Prof. Christian Drosten, am Montag (02.11.2009)
+fest. Er gehe davon aus, dass die Grippewelle in etwa fünf bis sechs Wochen
+über den restlichen Teil des Landes hinwegziehen werde." - Deutsche Welle,
+[[https://www.dw.com/de/schweinegrippe-auf-dem-vormarsch/a-4850220][Schweinegrippe auf dem Vormarsch]]
+
+*** Neil Ferguson
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=66244][Corona und gekaufte Wissenschaft – Wie falsche Wissenschaft
+die Welt in einen Abgrund stürzt]].
+
+Ferguson sagte im März 550.000 Tote für Großbritannien, 2,2 Millionen für die
+USA und 85.000 für Schweden voraus. Dies ist auch in Schweden nicht
+eingetreten. Ferguson hat sich selber nicht an Ausgangsbeschränkungen
+gehalten. Das Imperial College London wo er arbeitet erhielt seit 2010 190
+Millionen US-Dollar von der BMGF.
 
 *** Karl Lauterbach
 
-Lauterbach fordert Kontrollen in Privatwohnungen
-https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbach-fordert-Kontrollen-in-Privatwohnungen.html
+[[https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbach-fordert-Kontrollen-in-Privatwohnungen.html][Lauterbach fordert Kontrollen in Privatwohnungen]]
 
 ** Art der Kommunikation
 
@@ -111,7 +185,29 @@ https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbac
 - Absolutzahlen
 - Reihenweises zensieren auf Youtube
 
-** Panikpapier aus Deutschland und Österreich
+*** Panikpapier aus Deutschland und Österreich
+
+ Ein internes Strategiepapier des Deutschen Bundesinnenministerium erklärt
+ ([[https://www.abgeordnetenwatch.de/blog/informationsfreiheit/das-interne-strategiepapier-des-innenministeriums-zur-corona-pandemie][abgeordnetenwatch.de]]), dass eine "Schockwirkung" beabsichtigt sei:
+
+ "Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten
+ Auswirkungen einer Durchseuchung auf die menschliche Gesellschaft verdeutlicht
+ werden:
+
+ 1. Viele Schwerkranke werden von ihren Angehörigen ins Krankenhaus gebracht,
+    aber abgewiesen, und sterben qualvoll um Luft ringend zu Hause. [...]
+
+ 2. [...] Wenn sie [Die Kinder] dann ihre Eltern anstecken, und einer davon
+    qualvoll zu Hause stirbt und sie das Gefühl haben, Schuld daran zu sein,
+    weil sie z.B. vergessen haben, sich nach dem Spielen die Hände zu waschen,
+    ist es das Schrecklichste, was ein Kind je erleben kann.
+
+ 3. Folgeschäden: [...]"
+
+Auch in Österreich ist Angst anscheinend bewusst als Mittel eingesetzt worden:
+
+- meinbezirk.at: [[https://www.meinbezirk.at/wieden/c-politik/bevoelkerung-soll-angst-vor-ansteckung-haben_a4046607][Bevölkerung soll "Angst vor Ansteckung" haben]]
+- Die Presse: [[https://www.diepresse.com/5805870/regierungsprotokoll-angst-vor-ansteckung-erwunscht][Regierungsprotokoll: Angst vor Ansteckung erwünscht?]]
 
 ** PCR Tests
 
@@ -128,38 +224,36 @@ Das Virus ist bis heute von niemandem isoliert worden.
 
 - 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
   https://www.youtube.com/watch?v=cFAq8CqN1Gg
-- Drosten 2014, PCR Tests viel zu empfindlich "Ja, aber die Methode ist so
-  empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus nachweisen
-  kann. Wenn ein solcher Erreger zum Beispiel bei einer Krankenschwester mal
-  eben einen Tag lang über die Nasenschleimhaut huscht, ohne dass sie erkrankt
-  oder sonst irgend etwas davon bemerkt, dann ist sie plötzlich ein
-  Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun plötzlich milde
-  Fälle und Menschen, die eigentlich kerngesund sind, in der Meldestatistik
-  enthalten. Auch so ließe sich die Explosion der Fallzahlen in Saudi-Arabien
-  erklären. Dazu kommt, dass die Medien vor Ort die Sache unglaublich hoch
-  gekocht haben."
-  https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html
+- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
+  Methode ist so empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus
+  nachweisen kann. Wenn ein solcher Erreger zum Beispiel bei einer
+  Krankenschwester mal eben einen Tag lang über die Nasenschleimhaut huscht,
+  ohne dass sie erkrankt oder sonst irgend etwas davon bemerkt, dann ist sie
+  plötzlich ein Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun
+  plötzlich milde Fälle und Menschen, die eigentlich kerngesund sind, in der
+  Meldestatistik enthalten. Auch so ließe sich die Explosion der Fallzahlen in
+  Saudi-Arabien erklären. Dazu kommt, dass die Medien vor Ort die Sache
+  unglaublich hoch gekocht haben."
 - Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
   Labor macht sein eigenes Testverfahren.
-  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests/
+  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests
 - PCR Tests sind für Diagnosen nicht zugelassen.
-- Es wird mit viel zu hoher Sensibilität getestet
+- Es wird mit viel zu hoher Sensibilität getestet, z.B. [[https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert][bioscientia]]
   - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
     Nachweis eines einzelnen Gens je nach Spezifität als positiv für
     SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
     empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
-    https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert
 
 ** Keine ausreichende Diskussion
-
-Folgende Experten würden gerne an einer öffentlichen Debatte mitwirken und
-bekommen diese Möglichkeit nicht.
 
 Das Land Bayern hat keine Akten über die Grundlagen der Verordnungen:
 https://www.heise.de/tp/features/Bayerische-Regierung-hat-angeblich-keine-Akten-zu-Corona-Beschluessen-4903549.html
 https://www.ckb-anwaelte.de/corona-update-17-august-2020/
 
 *** Experten
+
+Folgende Experten würden gerne an einer öffentlichen Debatte mitwirken und
+bekommen diese Möglichkeit nicht.
 
 - https://en.wikipedia.org/wiki/Sunetra_Gupta prof. theoretical
 epidemiology, Oxford
@@ -538,7 +632,7 @@ Medien versagen regelmäßig bei entscheidenden Themen:
   Syrien, Ukraine, Weißrussland, Hongkong, ...
 - Lügen zur angeblichen Notwendigkeit der privaten Altersvorsorge
 
-** Aber es können doch nicht alle Wissenschaftler falsch?
+** Aber es können doch nicht alle Wissenschaftler falsch liegen?
 
 - Drittmittelabhängigkeit
 - Ohne die BMGF geht im medizinischen Bereich weltweit nichts.
