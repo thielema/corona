@@ -1,9 +1,20 @@
-#+TITLE: Corona Reader
+#+TITLE: Corona - Anregungen zum Reden
 #+OPTIONS: toc:nil author:nil creator:nil email:nil
 #+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
 #+LATEX_HEADER: \hypersetup{colorlinks=false}
 
 * Vorwort
+
+Diese Zusammenstellung ist nicht vollständig, nicht abgeschlossen und
+vielleicht fehlerhaft. Das Ziel dieser Sammlung von Gedanken und Verweisen,
+ist es, Menschen zum Gespräch anzuregen.
+
+Der Anlass für die Arbeit an diesem Text war, dass meine Eltern und ich uns zu
+einem Gespräch über Corona verabredeten. Sie baten mich, Ihnen doch zur
+Vorbereitung die wichtigsten Punkte Zusammenzustellen. Im Gespräch merkten wir
+dann, dass wir gar nicht so weit auseinander liegen in unseren Ansichten.
+
+* Einleitung
 
 Wahrscheinlich hat kein Ereignis seit dem 2. Weltkrieg so viele Mensch auf so
 dramatische Weise betroffen, wie die von der Weltgesundheitsorganisation (WHO)
@@ -419,6 +430,15 @@ ansprechen.
 
 https://www.tagesspiegel.de/politik/neue-corona-regeln-der-lockdown-light-atmet-einen-undemokratischen-geist/26567648.html
 
+*** Robert F. Kennedy
+
+Neffe von JFK.
+
+24.10.2020 [[https://www.youtube.com/watch?v=NpMWDCX1yMI][Robert F. Kennedy, Jr.: Int'l. Message for Freedom and Hope]] (Youtube)
+
+Calls Corona epidemic a global Coup d'etat by Big Data and other companies led
+by Bill Gates.
+
 ** Die Maßnahmen
 
 *** Ignorieren von Gerichtsurteilen
@@ -503,6 +523,19 @@ https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-
 In der Übersicht der Einzeljahre sieht man deutlich, dass die Sterblichkeit in 2018 höher war:
 
 https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016
+
+*** Schweden
+
+https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
+https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
+https://www.nachdenkseiten.de/?p=66378
+https://www.nachdenkseiten.de/?p=65143#h01
+
+*** Weissrussland
+
+Weissrussland hat keinerlei besondere Maßnahmen getroffen. Wenn es eine
+Übersterblichkeit gäbe, würde die Opposition sie gegen den Präsidenten
+verwenden. Das passiert aber nicht.
 
 *** Andere Länder
 
