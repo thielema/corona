@@ -238,6 +238,10 @@ Millionen US-Dollar von der BMGF.
 
 [[https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbach-fordert-Kontrollen-in-Privatwohnungen.html][Lauterbach fordert Kontrollen in Privatwohnungen]]
 
+*** Wikipedia
+
+TODO: Wikipedia ist nicht glaubwürdig. Siehe z.B. "Neues aus Wikihausen".
+
 ** Art der Kommunikation
 
 - Diffamierung
@@ -929,6 +933,14 @@ Medien versagen regelmäßig bei entscheidenden Themen:
   Aussagen seines Dokumentes finden sich auch in dieser
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
   vollständigen URLs.
+
+* Literatur
+
+- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel Bestseller!)
+- [[https://mediashop.at/buecher/lockdown-2020][Lockdown 2020]], Besprechung [[https://www.nachdenkseiten.de/?p=65867][Nachdenkseiten]], [[https://www.nachdenkseiten.de/?p=65968][Interview]]
+- Karina Reiß und Sucharit Bhakdi: Corona Fehlalarm? Daten, Fakten,
+  Hintergründe. Goldegg Verlag, Berlin/Wien 2020, ISBN 978-3-99060-191-4 (159
+  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]]
 
 # Local Variables:
 # org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true }\n"
