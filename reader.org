@@ -634,7 +634,6 @@ mit ruhigem Atem irgendeine messbare Wirkung hätte.
   signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. (TODO:
   link, Hausmitteilung 222/2020; Deutscher Bundestag; 28.08.2020)
 
-
 *** Schulschließungen
 
 *** Reisebeschränkungen
@@ -661,6 +660,9 @@ TODO!
   Schweinegrippe soll es viele schwere Impfschäden gegeben haben.
 
 Siehe auch S.17 in "Wie-soll-es-weitergehen"
+
+Zum Thema Impfstoffe äußern sich z.B. [[https://www.clemensarvay.com][Clemens Arvay]], Sucharit Bhakdi, siehe
+für beide auch die Literaturhinweise.
 
 ** Die Nebenwirkungen
 
@@ -968,11 +970,20 @@ zusammen, sagt der Epidemiologe und Biologe Rob Wallace"
 
 * Literatur
 
-- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel Bestseller!)
+- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel Bestseller)
 - [[https://mediashop.at/buecher/lockdown-2020][Lockdown 2020]], Besprechung [[https://www.nachdenkseiten.de/?p=65867][Nachdenkseiten]], [[https://www.nachdenkseiten.de/?p=65968][Interview]]
 - Karina Reiß und Sucharit Bhakdi: Corona Fehlalarm? Daten, Fakten,
   Hintergründe. Goldegg Verlag, Berlin/Wien 2020, ISBN 978-3-99060-191-4 (159
-  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]]
+  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]] (Spiegel Bestseller)
+- Clemens G. Arvay: Wir können es besser (Spiegel Bestseller)
+- Wolfgang Kubicki: Meinungsunfreiheit (Spiegel Bestseller)
+
+* Humor
+
+- Die Echse über Sicherheitsmaßnahmen im Tierreich [[https://www.youtube.com/watch?v=zg3rV_vZmsU][YT]]
+- Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
+- Corona Song von Dieter Hallervorden [[https://www.youtube.com/watch?v=k4OFXkcn24Q][YT]]
+- Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
 
 # Local Variables:
 # org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true }\n"
