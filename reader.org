@@ -1,5 +1,6 @@
 #+TITLE: Corona - Anregungen zum Reden
-#+OPTIONS: toc:nil author:nil creator:nil email:nil
+#+SUBTITLE: Aktuelle Version: http://corona.koch.ro
+#+OPTIONS: toc:tl author:t creator:nil email:nil
 #+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
 #+LATEX_HEADER: \hypersetup{colorlinks=false}
 
@@ -150,7 +151,24 @@ Todesfällen]].
 *** Pflegenotstand
 
 Pflegenotstand herrscht seit Jahren. Außer Beifall zu klatschen ist auch in
-Folge der "Pandemie" nichts geschehen.
+Folge der "Pandemie" nichts geschehen. Dabei war die drohende Überlastung des
+Gesundheitssystems das Hauptargument für die Maßnahmen: "Flatten the
+curve". Spätestens im April hätte es Notfallprogramme geben müssen zur
+Ausbildung von Pflegehelfern und zur Anwerbung bereits ausgebildeter
+Pflegekräfte.
+
+Statt in diesem Bereich Notstände zu beseitigen, werden angeblich
+unverantwortliche Maskenverweigerer oder feiernde Jugendliche diffamiert.
+
+Gerade dieser Bereich zeigt deutlich, dass der Schutz der Bevölkerung nicht
+das Hauptmotiv der Maßnahmen sein kann.
+
+André Tautenhahn auf TauBlog.de, 3.11.2020: [[https://www.taublog.de/201103der-karren-wird-seit-jahren-vor-die-wand-gefahren][Der Karren wird seit Jahren vor
+die Wand gefahren]] - "[...] die Höchstarbeitszeit für Beschäftigte in Kliniken
+und Pflegeheimen erneut auf bis zu 60 Stunden pro Woche erhöht."
+
+Nachdenkseiten, 3.11.2020: [[https://www.nachdenkseiten.de/?p=66470][Personalengpass auf den Intensivstationen – das
+Versagen der Politik wird abgewälzt]].
 
 *** Zivilisationskrankheiten: Diabetes, Übergewicht, Bluthochdruck
 
@@ -249,6 +267,14 @@ TODO: Wikipedia ist nicht glaubwürdig. Siehe z.B. "Neues aus Wikihausen".
 - Keine saubere Verwendung von Begriffen: Testpositiv, infiziert, krank
 - Absolutzahlen
 - Reihenweises zensieren auf Youtube
+*** Strafen statt diskutieren
+**** Dr. Friedrich Pürner, Leiter Gesundheitsamt, Strafversetzt
+
+Anfang November, merkur.de: [[https://www.merkur.de/bayern/coronavirus-bayern-markus-soeder-friedrich-puerner-gesundheitsamt-kritik-strategie-strafe-beamter-zr-13922061.html][Er kritisierte öffentlich Söders Corona-Politik:
+Gesundheitsamt-Chef wird strafversetzt]]
+
+Friedrich Pürner ist Facharzt, Epidemiologe und Chef des Gesundheitsamts
+Aichach-Friedberg bei Augsburg.
 
 *** Manipulation
 
@@ -933,6 +959,12 @@ Medien versagen regelmäßig bei entscheidenden Themen:
   Aussagen seines Dokumentes finden sich auch in dieser
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
   vollständigen URLs.
+* Weitere Themen
+** Epidemien als Folge des Neoliberalismus
+
+Der Freitag, 2.11.2020: [[https://www.freitag.de/autoren/der-freitag/wir-koennen-einpacken?][„Wir können einpacken!“]] - "Die Corona-Pandemie hängt
+eng mit dem Kapitalismus, der Agrar-Industrie und dem Raubbau an der Natur
+zusammen, sagt der Epidemiologe und Biologe Rob Wallace"
 
 * Literatur
 
