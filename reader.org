@@ -747,11 +747,10 @@ Zahlen von einer Pandemie zu sprechen.
 
 *** Deutschland
 
-https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html
-
-In der Übersicht der Einzeljahre sieht man deutlich, dass die Sterblichkeit in 2018 höher war:
-
-https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016
+Die Auswertung des Statistischen Bundesamtes zu [[https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html][Sterbefällen und
+Lebenserwartung]] für das Jahr 2020 lässt keine besondere Übersterblichkeit für
+2020 erkennen. In der [[https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016][Übersicht der Einzeljahre]] sieht man deutlich, dass die
+Sterblichkeit in Deutschland im Jahr 2018 höher war als im Jahr 2020.
 
 *** Schweden
 
@@ -759,6 +758,7 @@ https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
 https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
 https://www.nachdenkseiten.de/?p=66378
 https://www.nachdenkseiten.de/?p=65143#h01
+https://www.nachdenkseiten.de/?tag=schweden
 
 *** Weißrussland
 
@@ -1017,10 +1017,11 @@ mag von Tag zu Tage leben.
 - http://www.aerzteklaerenauf.de
 - https://www.ärzte-für-aufklärung.de
 - https://wie-soll-es-weitergehen.de - Sebastian Friebel,
-  Ehem. parlamentarischer Berater des Deutschen Bundestages. Die meisten
+  ehem. parlamentarischer Berater des Deutschen Bundestages. Die meisten
   Aussagen seines Dokumentes finden sich auch in dieser
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
-  vollständigen URLs.
+  vollständigen URLs. Der Journalist [[https://miloszmatuschek.substack.com/p/friebelwef][Milosz Matuschek unterstützt den Aufruf]]
+  und bestätigt Friebel's Identität.
 - https://www.corona-experten.de - TODO noch zu prüfen!
 
 * Weitere Themen
