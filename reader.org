@@ -2,6 +2,7 @@
 #+SUBTITLE: Aktuelle Version: http://corona.koch.ro
 #+OPTIONS: toc:tl author:t creator:nil email:nil
 #+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
+#+LATEX_HEADER: \usepackage{verse}
 #+LATEX_HEADER: \hypersetup{colorlinks=false}
 
 * Vorwort
@@ -266,7 +267,8 @@ TODO: Wikipedia ist nicht glaubwürdig. Siehe z.B. "Neues aus Wikihausen".
 - Unlaute Methoden, z.B. Vergleich mit Chemtrails, Echsenmenschen
 - Keine saubere Verwendung von Begriffen: Testpositiv, infiziert, krank
 - Absolutzahlen
-- Reihenweises zensieren auf Youtube
+- Massive Zensur auf YouTube
+  - https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown
 *** Strafen statt diskutieren
 **** Dr. Friedrich Pürner, Leiter Gesundheitsamt, Strafversetzt
 
@@ -277,8 +279,6 @@ Friedrich Pürner ist Facharzt, Epidemiologe und Chef des Gesundheitsamts
 Aichach-Friedberg bei Augsburg.
 
 *** Manipulation
-
-TODO: Quellen prüfen
 
 Aus "Wie-soll-es-weitergehen": "Die Medien nutzen auch die Macht der Bilder
 und setzen diese gezielt ein. Sie schockieren uns mit Aufnahmen von
@@ -293,8 +293,20 @@ Bestattungsunternehmen in der Region quarantänebedingt ihre Arbeit
 niederlegten und nur deswegen das Militär für einen einmaligen Transport von
 60 Särgen herangezogen wurde."
 
-The Potter´s Field; www.youtube.com; 2016
-Coronavirus, Federazione Onoranze Funebri; www.adnkronos.com; 24.03.2020
+TODO: Quellen für den Absatz oben prüfen!
+
+- The Potter´s Field; www.youtube.com; 2016
+- Coronavirus, Federazione Onoranze Funebri; www.adnkronos.com; 24.03.2020
+
+Daniele Ganser beschreibt einige Techniken der Manipulation am 11.9.: [[https://www.youtube.com/watch?v=3gertJ5VFfM][Corona
+und die Medien]], wie z.B.:
+
+- Verwendung absoluter Zahlen oder Bezug
+- Gleichsetzung von Testpositiven mit Infizierten mit Hospitalisierten
+- Verwendung von suggestiven Bildern, teilweise ohne Bezug zur Meldung
+- Verschweigen von beruhigenden Informationen
+- Deklaration von Toten Verstorbenen Covid-Tote trotz abweichender oder
+  unbekannter Todesursache
 
 *** Panikpapier aus Deutschland und Österreich
 
@@ -359,88 +371,90 @@ Das Virus ist bis heute von niemandem isoliert worden.
 
 Das Land Bayern hat keine Akten über die Grundlagen der Verordnungen:
 https://www.heise.de/tp/features/Bayerische-Regierung-hat-angeblich-keine-Akten-zu-Corona-Beschluessen-4903549.html
-https://www.ckb-anwaelte.de/corona-update-17-august-2020/
+https://www.ckb-anwaelte.de/corona-update-17-august-2020
 
 *** Experten
 
 Folgende Experten würden gerne an einer öffentlichen Debatte mitwirken und
 bekommen diese Möglichkeit nicht.
 
-- https://en.wikipedia.org/wiki/Sunetra_Gupta prof. theoretical
-epidemiology, Oxford
-- https://en.wikipedia.org/wiki/Karin_M%C3%B6lling prof. virologist, Zurich
-- https://en.wikipedia.org/wiki/Anders_Tegnell State Epidemiologist, Sweden
-- Dr Pablo Goldschmidt, Professor of Molecular Pharmacology at the
-Université Pierre et Marie Curie in Paris
-- https://profiles.stanford.edu/eran-bendavid Prof Stanford
-- https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya Prof Stanford
-- https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist) advisor
-to the Italian National Agency for Regional Health Services
-- https://en.wikipedia.org/wiki/Michael_Levitt 2013 Nobel Prize in Chemistry
-- Dr Richard Schabas Chief of Staff at York Central Hospital
-- https://en.wikipedia.org/wiki/John_Lee_(pathologist)
-- https://en.wikipedia.org/wiki/John_Oxford
-- Prof Knut Wittkowski, censored by YT: https://youtu.be/lGC5sGdz4kg
-https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown/
-- https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel prof. of forensics at Essen
-- https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9
-- Dr Claus Köhnlein
-- https://www.researchgate.net/profile/Gerard_Krause
-- Dr Gerd Gigerenzer, professor of psychology, Berlin
-- https://de.wikipedia.org/wiki/Sucharit_Bhakdi head of the Institute
-for Medical Microbiology and Hygiene
-- Dr Joel Kettner prof. of Community Health Sciences and Surgery at Manitoba
-- https://en.wikipedia.org/wiki/Yoram_Lass
-- Dr Pietro Vernazza Prof Health Policy, St. Gallen
-- https://de.wikipedia.org/wiki/Frank_Ulrich_Montgomery
-- Dr Yanis Roussel
-- https://en.wikipedia.org/wiki/David_L._Katz
-- https://en.wikipedia.org/wiki/Michael_Osterholm
-- https://en.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche
+- [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und Infektionsepidemiologie
+  und ehem. Leiter des Instituts für Medizinische Mikrobiologie und Hygiene,
+  Autor des Spiegel Bestsellers "Corona Fehlalarm?"
+- Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+  University of Manitoba
+- Dr. Yoram Lass - ehem. Generaldirektor des Israelitischen
+  Gesundheitsministeriums
+- [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+  Kantonsspital St. Gallen
+- [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des Institutes
+  für Virologie und HIV-Forschung an der Medizinischen Fakultät der
+  Universität Bonn
+- Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+- [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington Declaration"
+- [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+  Disease Research and Policy an der University of Minnesota
+- [[https://de.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche][Prof. Peter C. Gøtzsche]] - Professor für klinisches Forschungsdesign und
+  Analyse, Mitbegründer der Cochrane Collaboration
+- [[https://de.wikipedia.org/wiki/Sunetra_Gupta][Prof. Dr. Sunetra Gupta]] - Professorin der Epidemiologie
+- [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für öffentliche
+  Gesundheit
+- Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+  Université Pierre et Marie Curie in Paris
+- [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
+  Stanford
+- [[https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya][Prof. Dr. Jay Bhattacharya]], Stanford
+- [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
+  regionale Gesundheitsdienste
+- [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+- [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+- [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+  Epidemiologie und Forschungsdesign an der Rockefeller-Universität
+- [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+- [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie und
+  Virologie an die Martin-Luther-Universität Halle-Wittenberg
+- Dr. med. Claus Köhnlein, Internist, Autor des Buches "Virus-Wahn" (2009)
+- [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+  Helmholtz-Zentrum für Infektionsforschung in Braunschweig
+- [[https://de.wikipedia.org/wiki/Gerd_Gigerenzer][Prof. Dr. Gerd Gigerenzer]] - Psychologe, kritisiert die Panikmache
+- [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+  und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
+- [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle und
+  Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus Eppendorf
 
-Überblick zu kritischen Experten (Englisch):
-https://off-guardian.org/category/covexperts
+Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
+Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
+Formen des Drucks, der auf Experten ausgeübt wurde anstatt mit ihnen zu
+debatieren.
 
-**** John Ioannidis
+**** Dr. John Ioannidis
 
-Meistzitierter Wissenschaftler der Welt?
-
-https://en.wikipedia.org/wiki/John_Ioannidis prof Stanford
+[[https://de.wikipedia.org/wiki/John_Ioannidis][John Ioannidis]] Professor für Medizin und Professor für Epidemiologie und
+Bevölkerungsgesundheit an der Stanford University School of Medicine, sowie
+professor by courtesy für biomedizinische Datenwissenschaft an der Stanford
+University School of Medicine, professor by courtesy für Statistik an der
+Stanford University School of Humanities and Sciences, und Kodirektor des
+Innovationszentrum für Meta-Forschung in Stanford, ebenfalls Stanford
+University School of Medicine. Er gehört zu den meist-zitierten
+Wissenschaftlern weltweit.
 
 Sterblichkeitsrate maximal 0,31% mit großen regionalen Unterschieden
 https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
 https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html
 
-**** Pietro Vernazza
-
-Chefarzt Infektiologie Kantonsspital St. Gallen
-
-Empfiehlt Ende Juli "kontrollierte Durchseuchung der Bevölkerung",
-denn das Virus scheine "weniger gefährlich als gemeinhin vermutet".
-
-https://www.tagesanzeiger.ch/taskforce-will-vernazza-bremsen-763196868871
-
 **** Wolfgang Wodarg
 
-Prof. Dr. Martin Schwab, Juraprofessor Bielefeld hat ein umfangreiches Dosier
-zur Verteidigung von Herrn Wodarg erstellt. Das Dossier enthält auch
-umfangreiche Analysen, welche Aussagen von Wodarg nach jetzigem Wissensstand
-als belegt angesehen werden können:
-http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf
+Prof. Dr. Martin Schwab, Juraprofessor Bielefeld hat ein umfangreiches [[http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf][Dosier]]
+zur Verteidigung von Herrn Wodarg erstellt. Das Dossier enthält auch Analysen,
+welche Aussagen von Wodarg nach jetzigem Wissensstand als belegt angesehen
+werden können.
 
-Nach Wodarg eignet sich Grippe in jedem Jahr, um eine Pandemie auszurufen:
+Nach Wodarg eignet sich die Grippe in jedem Jahr, um eine Pandemie auszurufen:
 [[https://www.youtube.com/watch?v=jKaRvpTW8sE][Wodarg: Industrieverbände bestimmen, ob man eine Pandemie ausruft (2013)]]
 
-**** Walter Plassmann
-
-Chef der Kassenärztlichen Vereinigung in Hamburg
-
-https://www.focus.de/regional/hamburg/interview-mit-focus-online-hamburger-aerzte-chef-legt-gegen-virus-panikmacher-nach-es-ist-immer-ganz-ganz-schlimm_id_12459301.html
-
-"Ich glaube, wir hätten den Lockdown nach zwei bis drei Wochen beenden und den
-schwedischen Weg gehen sollen. Aber das ist vergossene Milch."
-
 *** Positionspapiere, Gruppen, Verbände
+
+TODO: [[https://de.wikipedia.org/wiki/Great-Barrington-Erkl%C3%A4rung][Great Barrington Declaration]]
 
 **** 2020-04-14 Aerzte/innen mit blick aufs ganze (AMBAG)
 
@@ -474,6 +488,15 @@ Der Aufruf ist nicht nur von hohen katholischen Würdenträgern [[https://verita
 sondern auch von Journalisten, Medizinern, Rechtsanwälten und
 Wissenschaftlern. Offizielle katholische Institutionen [[https://de.wikipedia.org/wiki/Carlo_Maria_Vigan%C3%B2#Verschw%C3%B6rungsmythen_zur_Corona-Krise][distanzieren]] sich von
 dem Aufruf.
+
+**** 2020-09-05 Doktoren für offene Debatte (Belgien)
+
+Titel [[https://docs4opendebate.be/de/offener-brief][Offener Brief von Ärzten und Fachleuten aus dem Gesundheitsbereich an
+alle belgischen Behörden und alle belgischen Medien]].
+
+Unterschrieben von 673 medizinischen Doktoren, 2187 ausgebildeten
+Gesundheitsmitarbeitern und 16781 Bürgern. Die Webseite enthält Links zu
+ähnlichen Initiativen aus anderen Ländern.
 
 **** 2020-09-08 COVID-19: Wo ist die Evidenz?
 
@@ -660,6 +683,10 @@ TODO!
   Schweinegrippe soll es viele schwere Impfschäden gegeben haben.
 
 Siehe auch S.17 in "Wie-soll-es-weitergehen"
+
+Es gab in der Humanmedizin bisher noch keinen zugelassenen Impfstoff gegen ein
+Virus aus der Corona-Familie. Trotzdem sollen nun Impfstoffe in extrem
+verkürzten Verfahren zugelassen werden.
 
 Zum Thema Impfstoffe äußern sich z.B. [[https://www.clemensarvay.com][Clemens Arvay]], Sucharit Bhakdi, siehe
 für beide auch die Literaturhinweise.
@@ -940,6 +967,39 @@ Medien versagen regelmäßig bei entscheidenden Themen:
 - Außerdem gibt es viele Wissenschaftler, die widersprechen, vor allem solche,
   die ihre Karriere hinter sich haben.
 
+* Ausblick
+
+Es ist zu hoffen, dass es dem Weltwirtschaftsforum nicht gelingt, seine Pläne
+umzusetzen. Doch was dann? Sollten die Machtstrukturen bestehen bleiben, so
+ist es nur eine Frage der Zeit, bis ein neuer Versuch gelingt.
+
+Die Bürger der ehemaligen DDR haben erlebt, wie eine euphorische Wendezeit
+schnell in eine Entäuschung umschlug.
+
+Der Aufbau von Neuem benötigt ein stabiles Fundament aus Wissen, Haltung und
+Gemeinschaft. Wer möchte an diesem Fundament mitarbeiten?
+
+- Was ist der Mensch?
+- Was ist die Würde des Menschen?
+- Was ist christliche Lebenshaltung? (Erst wenn wir über unseren eigenen
+  kulturellen Hintergrund und unsere Prägung wissen, können wir tatsächlich
+  fremde Kulturen würdigen.)
+
+Hauke Ritz, 31.10.2020 [[https://multipolar-magazin.de/artikel/chance-fur-humanismus][Die Krise des Westens: Chance für einen neuen Humanismus?]]
+
+#+BEGIN_EXPORT latex
+\newlength{\saveleftmargini}
+\setlength{\saveleftmargini}{\leftmargini}
+\setlength{\leftmargini}{10em}
+#+END_EXPORT
+#+BEGIN_VERSE
+Wer nicht von dreitausend Jahren
+sich weiß Rechenschaft zu geben,
+bleib im Dunkeln unerfahren,
+mag von Tag zu Tage leben.
+#+END_VERSE
+#+LATEX: \setlength{\leftmargini}{\saveleftmargini}
+
 * Weitere Links
 
 - https://swprs.org/fakten-zu-covid-19
@@ -961,6 +1021,8 @@ Medien versagen regelmäßig bei entscheidenden Themen:
   Aussagen seines Dokumentes finden sich auch in dieser
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
   vollständigen URLs.
+- https://www.corona-experten.de - TODO noch zu prüfen!
+
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
 
