@@ -8,49 +8,50 @@
 * Vorwort
 
 Diese Zusammenstellung ist nicht vollständig, nicht abgeschlossen und
-vielleicht fehlerhaft. Das Ziel dieser Sammlung von Gedanken und Verweisen,
-ist es, Menschen zum Gespräch anzuregen.
+vielleicht fehlerhaft. Das Ziel dieser Sammlung von Gedanken und Verweisen ist
+es, Menschen zum Gespräch anzuregen.
 
-Der Anlass für die Arbeit an diesem Text war, dass meine Eltern und ich uns zu
-einem Gespräch über Corona verabredeten. Sie baten mich, Ihnen doch zur
-Vorbereitung die wichtigsten Punkte Zusammenzustellen. Im Gespräch merkten wir
-dann, dass wir gar nicht so weit auseinander liegen in unseren Ansichten.
+Der Anlass für diese Zusammenstellung war ein klärendes Gespräch zu Corona in
+der Familie. Glücklicherweise stellte es sich heraus, dass die Ansichten gar
+nicht so weit auseinander lagen: Die Massnamen sind überzogen und das Virus
+wahrscheinlich eine mehr oder minder gewöhnliche Grippe. Nur die politischen
+Hintergründe sind unklar.
 
 Bei einem Gespräch über Corona ist es wichtig davon auszugehen, dass alle
 Gesprächspartner wahrscheinlich gutherzige Menschen sind. Es ist aber gar
-nicht so einfach zu erkennen, welche Maßnahmen und Handlungen tatsächlich dem
-Guten dienen. Propaganda will immer definieren, was gut und richtig ist und
-lässt in dieser Frage keinen Zweifel zu.
+nicht immer so einfach zu erkennen, was gut und richtig ist. Wenn über das
+Gute und Richtige nicht diskutiert wird sondern Zweifel diskreditiert wird,
+dann handelt es sich um Propaganda.
 
-Ein großer kommerzieller Propagandaerfolg von Edward Berney war es, Frauen das
-Rauchen schmackhaft zu machen. Er nannte Zigaretten die "Fackeln der
-Freiheit". Rauchende Frauen seien ein Zeichen der Emanzipation. Im Rückblick
-ist es einfacher, Gut von Böse zu unterscheiden.
+Ein großer kommerzieller Propagandaerfolg von Edward Berney war es zum
+Beispiel, Frauen das Rauchen schmackhaft zu machen. Er nannte Zigaretten die
+"Fackeln der Freiheit". Rauchende Frauen seien ein Zeichen der
+Emanzipation. Im Rückblick ist es einfacher, Gut von Böse zu unterscheiden.
 
 * Einleitung
 
 Wahrscheinlich hat kein Ereignis seit dem 2. Weltkrieg so viele Mensch auf so
 dramatische Weise betroffen, wie die von der Weltgesundheitsorganisation (WHO)
 ausgerufene Covid-19 Pandemie. Keine Entscheidung, sei es im großen wie im
-privaten kann zur Zeit getroffen werden, ohne die Pandemie und ihre Folgen zu
+privaten kann zur Zeit getroffen werden ohne die Pandemie und ihre Folgen zu
 berücksichtigen.
 
 Viele Menschen leider unter den Schutzmaßnahmen. Das Spektrum reicht von
-leichten aber massenweisen beeinträchtigungen des täglichen Lebens, über
+leichten aber massenweisen Beeinträchtigungen des täglichen Lebens, über
 zerstörte Existenzen, verschobene dringende Behandlungen, Vereinsamung, Panik
 bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen. Auch die Panik
 widerum hat negative Folgen.
 
-Es ist daher berechtigt, sich ein wenig Zeit zu nehmen, über diese Pandemie
+Es ist daher berechtigt, sich Zeit zu nehmen, über diese Pandemie
 nachzudenken.
 
 Auf der anderen Seite gibt es natürlich Todes- oder schwere Krankheitsfälle
 von Covid-19. Es ist mir niemand bekannt, der die Existenz des Virus leugnet
-und nicht auch bereit ist, Rücksicht auf Risikogruppen zu nehmen. Auch
-Angehörige von Verstorbenen verdienen Respekt ihrer Trauer. Covid-19 ist
-wahrscheinlich eine schwere Krankheit. Es darf aber nicht vergessen werden,
-dass Krankheit, Sterben und Tod zum Leben gehören. Auch die normale Grippe ist
-eine schwere Krankheit.
+oder nicht bereit ist, Rücksicht auf Risikogruppen zu nehmen. Auch Angehörige
+von Verstorbenen verdienen Respekt ihrer Trauer. Covid-19 ist wahrscheinlich
+eine schwere Krankheit. Es darf aber nicht vergessen werden, dass Krankheit,
+Sterben und Tod zum Leben gehören. Auch die normale Grippe ist eine schwere
+Krankheit.
 
 Im folgenden wird das Wort "Pandemie" der Einfachheit halber benutzt, ohne
 damit eine Wertung vorwegzunehmen, ob Covid-19 tatsächlich als Pandemie
@@ -375,8 +376,12 @@ https://www.ckb-anwaelte.de/corona-update-17-august-2020
 
 *** Experten
 
-Folgende Experten würden gerne an einer öffentlichen Debatte mitwirken und
-bekommen diese Möglichkeit nicht.
+Viele Experten würden gerne an einer öffentlichen Debatte mitwirken und
+bekommen diese Möglichkeit nicht. Stattdessen wird ihre Reputation angegriffen
+oder sogar Druck ausgeübt. Die folgenden Experten sind eine kleine Auswahl
+derjenigen, die sich bereits sehr früh kritisch über die angebliche extrem
+hohe Gefährlichkeit des Virus oder die Wirksamkeit der Maßnahmen geäußert
+haben.
 
 - [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und Infektionsepidemiologie
   und ehem. Leiter des Instituts für Medizinische Mikrobiologie und Hygiene,
@@ -438,9 +443,9 @@ Innovationszentrum für Meta-Forschung in Stanford, ebenfalls Stanford
 University School of Medicine. Er gehört zu den meist-zitierten
 Wissenschaftlern weltweit.
 
-Sterblichkeitsrate maximal 0,31% mit großen regionalen Unterschieden
-https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
-https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html
+Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31% mit
+großen regionalen Unterschieden. Dies liegt im Bereich der gewöhnlichen
+Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]].
 
 **** Wolfgang Wodarg
 
@@ -462,10 +467,9 @@ Positionspapier dokumentier im Film "Unerhört!", 25:00. Forderung nach
 Lockerungen des Lockdowns. Unterschrieben von 89 namentlich genannten Ärzten,
 21 anoynmen Unterzeichnenden.
 
-Nur ein Schweizer Medium berichtet:
-https://www.tagesanzeiger.ch/die-gefahr-fuer-die-patienten-wird-immer-groesser-954912313492
+Nur ein Schweizer Medium berichtet: [[https://www.tagesanzeiger.ch/die-gefahr-fuer-die-patienten-wird-immer-groesser-954912313492][Tagesanzeiger]]
 
-**** 2020-05-07 EIN AUFRUF FÜR DIE KIRCHE UND FÜR DIE WELT
+**** 2020-05-07 Ein Aufruf für die Kirche und für die Welt
 
 https://veritasliberabitvos.info/aufruf
 
@@ -488,6 +492,12 @@ Der Aufruf ist nicht nur von hohen katholischen Würdenträgern [[https://verita
 sondern auch von Journalisten, Medizinern, Rechtsanwälten und
 Wissenschaftlern. Offizielle katholische Institutionen [[https://de.wikipedia.org/wiki/Carlo_Maria_Vigan%C3%B2#Verschw%C3%B6rungsmythen_zur_Corona-Krise][distanzieren]] sich von
 dem Aufruf.
+
+Der Initiator des Aufrufs ist bekannt als Kritiker von Papst Franziskus. Der
+Papst selbst hat am 4.11. dazu aufgerufen, auf die Vorschriften der Behörden
+streng zu achten, "seien es politische oder Gesundheitsbehörden. Wir müssen
+uns vor der Pandemie schützen“. ([[https://volksblatt.at/coronavirus-papst-ruft-zu-einhaltung-der-anti-covid-massnahmen-auf][Artikel Volksblatt]], [[https://www.youtube.com/watch?v=D6PZX3uD8RQ][Video]])
+
 
 **** 2020-09-05 Doktoren für offene Debatte (Belgien)
 
@@ -518,9 +528,9 @@ zu dokumentieren."
 
 **** 2020-10-28 Positionspapier von Wissenschaft und Ärzteschaft zur Strategieanpassung im Umgang mit der Pandemie
 
-https://www.kbv.de/html/48910.php
+[[https://www.kbv.de/html/48910.php][Kassenärztliche Bundesvereinigung]]
 
-Zusammenfassung der Kernthesen
+Zusammenfassung der Kernthesen:
 
 - Abkehr von der Eindämmung alleine durch Kontaktpersonennachverfolgung.
 - Einführung eines bundesweit einheitlichen Ampelsystems anhand dessen sowohl
@@ -538,7 +548,7 @@ Jugendlichen durch soziale Deprivation und Brüche in Bildungs- und
 Berufsausbildungsgängen, den Niedergang ganzer Wirtschaftszweige, vieler
 kultureller Einrichtungen und eine zunehmende soziale Schieflage als Folge."
 
-BETEILIGTE
+Beteiligte:
 
 - Kassenärztliche Bundesvereinigung
 - Prof. Hendrik Streeck, Direktor des Instituts für Virologie der Universität
@@ -550,12 +560,17 @@ Unterstützt von 30 Verbänden und Vereinen.
 
 ** Prominente Kritiker, aber keine Experten
 
+Die Liste prominenter Kritiker der Coronamaßnahmen ist sehr lang. Dieser
+Abschnitt enthält nur Personen, die mir während der Recherche aufgefallen
+sind.
+
 *** Heribert Prantl
 
 2.11.2020, SZ: Corona-Maßnahmen - Die Grenzen des Erträglichen. [[https://www.sueddeutsche.de/politik/corona-massnahmen-die-grenzen-des-ertraeglichen-1.5100174][Videokommentar
 von Heribert Prantl]].
 
 *** David Claudio Siber
+
 Grünenpolitiker aus Flensburg, wurde aus der Ratsfraktion ausgeschlossen
 nachdem er auf der Demonstration in Berlin gesprochen hat. Er hat versucht
 innerhalb der Grünen Partei ein offene Diskussion zu bewirken. Er erfuhr auch,
@@ -566,7 +581,7 @@ https://www.ndr.de/nachrichten/schleswig-holstein/coronavirus/Nach-Corona-Demo-F
 
 https://david-claudio-siber.de/studien
 
-*** Thomas Berthold
+*** Thomas Berthold, Fußballer, Ex-Nationalspieler
 
 https://www.youtube.com/watch?v=3p41XxbwZP0
 https://www.youtube.com/watch?v=lO3-SKBu6VM
@@ -600,10 +615,8 @@ by Bill Gates.
 
 Von Gerichten gekippte Maßnahmen werden in gleicher Form wieder verabschiedet.
 
-- Beherbergungsverbot
-  https://www.tagesschau.de/inland/beherbergungsverbot-brandenburg-103.html
-- Sperrstunden
-  https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/gericht_kippt_sperrstunde_saarland_100.html
+- [[https://www.tagesschau.de/inland/beherbergungsverbot-brandenburg-103.html][Beherbergungsverbot]]
+- [[https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/gericht_kippt_sperrstunde_saarland_100.html][Sperrstunden]]
 
 *** Lockdown
 
@@ -661,18 +674,19 @@ mit ruhigem Atem irgendeine messbare Wirkung hätte.
 
 *** Reisebeschränkungen
 
-*** Maßnahmen die nicht diskutiert wurden
-
-- Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
-- Erhöhung des Pflegepersonals
-- Spaziergänge an der frischen Luft
-- Besondere Ladenöffnungszeiten für alte Menschen
-
 *** Corona-App
+
+Es war von Anfang an klar, dass gerade ältere Menschen nicht über geeignete
+Mobiltelefone verfügen. Die folgenden Beispiele lassen eher befürchten, dass
+die Pandemie ein willkommener Anlaß war um eine neue Stufe der
+Totalüberwachung zu etablieren.
 
 "Die Corona-Warn-App bleibt weit unter ihren Möglichkeiten, sie muss weiter
 entwickelt werden und müsse bussgeldbewährt zur Pflicht werden." - Thomas
 Röwekamp, Fraktionsvorsitzender CDU, Bremen. [[https://www.weser-kurier.de/bremen/bremen-stadt_artikel,-bremer-cdu-fordert-pflicht-fuer-coronawarnapp-_arid,1941891.html][Weser Kurier]], 31.10.2020
+
+Euronews, 18.10.2020: [[https://de.euronews.com/2020/10/18/bisher-kaum-hilfreich-corona-app-bald-obligatorisch][Was bringen die Corona-Apps? Portugal will sie
+verpflichtend machen]]
 
 *** Impfung
 
@@ -691,6 +705,13 @@ verkürzten Verfahren zugelassen werden.
 Zum Thema Impfstoffe äußern sich z.B. [[https://www.clemensarvay.com][Clemens Arvay]], Sucharit Bhakdi, siehe
 für beide auch die Literaturhinweise.
 
+*** Maßnahmen die nicht diskutiert wurden
+
+- Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
+- Erhöhung des Pflegepersonals
+- Spaziergänge an der frischen Luft
+- Besondere Ladenöffnungszeiten für Risikogruppen
+
 ** Die Nebenwirkungen
 
 Der Oberregierungsrat Stephan Kohn aus der Abteilung Krisenmanagement und
@@ -698,7 +719,8 @@ Bevölkerungsschutz des Innenministeriums ist bereits im Mai seiner Pflicht
 nachgekommen und hat in dem Gutachten "[[https://www.freidenker.org/fw17/wp-content/uploads/2020/05/200508-BMI_KM4.pdf][Coronakrise 2020 aus Sicht des Schutzes
 Kritischer Infrastrukturen]]" ausführlich die schädlichen Folgen der
 Coronamaßnahmen beschrieben. Er ist für seine Pflicherfüllung diszipliniert
-worden.
+worden. Eine Diskussion fand nicht statt, obwohl Kohn für sein Papier
+hochrangige Experten konsultiert hat.
 
 *** Tote in Entwicklungsländern
 
@@ -713,8 +735,8 @@ Gerade Deutsche sollten ein großes Misstrauen gegenüber Notstandsgesetzen
 haben. Erinnert sei an die [[https://de.wikipedia.org/wiki/Verordnung_des_Reichspr%C3%A4sidenten_zum_Schutz_von_Volk_und_Staat][Verordnung des Reichspräsidenten zum Schutz von
 Volk und Staat]] vom 28. Februar 1933.
 
-- Der Deutsche Bundestag entscheided am 6.11. über ein Notstandsgesetz das
-  erneut wie 1933 erlaubt, Demonstrationen zu verbieten: [[https://www.faz.net/aktuell/politik/union-und-spd-einig-infektionsschutzgesetz-wird-schnell-neu-gefasst-17034341.html][Artikel FAZ]],
+- Der Deutsche Bundestag entscheidet am 6.11. über ein Notstandsgesetz das
+  erneut, wie bereits 1933, erlaubt Demonstrationen zu verbieten: [[https://www.faz.net/aktuell/politik/union-und-spd-einig-infektionsschutzgesetz-wird-schnell-neu-gefasst-17034341.html][Artikel FAZ]],
   [[https://dip21.bundestag.de/dip21/btd/19/239/1923944.pdf][Gesetzentwurf]]. Die kritischte Passage ist: "Untersagung sowie dies zwingend
   erforderlich ist oder Erteilung von Auflagen für das Abhalten von
   Versammlungen oder religiösen Zusammenkünften"
@@ -726,8 +748,7 @@ Volk und Staat]] vom 28. Februar 1933.
 ** Sterblichkeit
 
 Die WHO erklärt selber Anfang Oktober, dass bisher etwa 10% aller Menschen
-weltweit inifziert wurden:
-https://off-guardian.org/2020/10/08/who-accidentally-confirms-covid-is-no-more-dangerous-than-flu
+weltweit inifziert wurden. ([[https://off-guardian.org/2020/10/08/who-accidentally-confirms-covid-is-no-more-dangerous-than-flu][Artikel offGuardian]])
 
 "Our current best estimates tell us that about ten percent of the global
 population may have been infected by this virus. This varies depending on
@@ -742,14 +763,14 @@ Weltbevölkerung: 7,8 Milliarden Menschen
 
 Dreisatz: 1.176.726 / (7,8E9 * 10%) = 0,15%
 
-Sterblichkeit der gewöhnlichen Grippe (Influenza): 0,1% - 0,2%
+Sterblichkeit der gewöhnlichen Grippe [[https://de.wikipedia.org/wiki/Influenza#Todesf%C3%A4lle][nach Wikipedia]] (Influenza): 0,1% - 0,2%
 
-https://de.wikipedia.org/wiki/Influenza#Todesf%C3%A4lle
-https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher/
+Siehe auch: [[https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher][Corona versus Grippe, was ist gefährlicher]]
 
 ** Positivrate
 
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-08-26-de.pdf
+Das Robert-Koch Institut veröffentlicht jeden Mittwoch die bundesweiten
+Ergebnisse der PCR-Tests. Bericht vom [[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-08-26-de.pdf][2020-08-26]].
 
 Die Positivenquoten seit der Kalenderwoche 22 (25. Mai) sind:
 1,06 0,94 0,86 1,37 0,79 0,61 0,59 0,65 0,79 0,98 1,00 0,97 0,88
@@ -769,11 +790,11 @@ Sterblichkeit in Deutschland im Jahr 2018 höher war als im Jahr 2020.
 
 *** Schweden
 
-https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
-https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
-https://www.nachdenkseiten.de/?p=66378
-https://www.nachdenkseiten.de/?p=65143#h01
-https://www.nachdenkseiten.de/?tag=schweden
+- https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
+- https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
+- https://www.nachdenkseiten.de/?p=66378
+- https://www.nachdenkseiten.de/?p=65143#h01
+- https://www.nachdenkseiten.de/?tag=schweden
 
 *** Weißrussland
 
@@ -794,9 +815,8 @@ hinzugefügt worden.
 
 *** Andere Länder
 
-https://ourworldindata.org/excess-mortality-covid#excess-mortality-using-raw-death-counts
-
-Die Grafiken zeigen, dass nicht alle Länder eine erhöhte Sterblichkeit in 2020 aufweisen.
+Die Grafiken der [[https://ourworldindata.org/excess-mortality-covid#excess-mortality-using-raw-death-counts]["Excess Mortality" auf ourworldindata.org]] zeigen, dass nur
+eine Minderheit der Länder eine erhöhte Sterblichkeit in 2020 aufweisen.
 
 10 Länder haben eine deutlich höhere Sterblichkeit für 2020: Belgium, Chile,
 England & Wales, France, Italy, Netherlands, Scotland, Spain, Sweden, United
@@ -868,8 +888,7 @@ https://id2020.org
 Alle Menschen sollen eine weltweit eindeutige, zentral verwaltete digitale
 Identität erhalten, die mit allen ihren wichtigen Daten verknüft wird.
 
-- 2020-10-19: Kommt die überwachte Gesellschaft? deutschlandfunkkultur.de
-  https://www.deutschlandfunkkultur.de/digitale-identitaet-kommt-die-ueberwachte-gesellschaft.976.de.html?dram:article_id=486012
+- 2020-10-19: Kommt die überwachte Gesellschaft? [[https://www.deutschlandfunkkultur.de/digitale-identitaet-kommt-die-ueberwachte-gesellschaft.976.de.html?dram:article_id=486012][deutschlandfunkkultur.de]]
 - Mitglieder: Microsoft, Rockefeller Foundation, Gavi (The Vaccine Alliance),
   Mastercard, Care.org, ...
 - 2020-03-24, Bill Gates: 33:25 “Eventually, what we'll have to have is
@@ -877,12 +896,10 @@ Identität erhalten, die mit allen ihren wichtigen Daten verknüft wird.
   because you don't want people moving around the world -- where you'll have
   some countries that won't have it under control, sadly -- you don't want to
   completely block off the ability for those people to go there and come back
-  and move around.”
-  https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic/transcript
-- SRF: Globale E-ID Initiativen – ihre Möglichkeiten und Grenzen. Podcast
-  https://www.srf.ch/play/radio/kontext/audio/globale-e-id-initiativen---ihre-moeglichkeiten-und-grenzen?id=83db5967-74ff-4cf7-b22a-d7aa7ee712e5
-- Norbert Häring: Hörempfehlung: Bericht des Schweizer Rundfunks über ID2020, Known Traveller und Co.
-  https://norberthaering.de/die-regenten-der-welt/srf-id2020
+  and move around.”  [[https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic/transcript][TED talk]]
+- SRF: Globale E-ID Initiativen – ihre Möglichkeiten und Grenzen. [[https://www.srf.ch/play/radio/kontext/audio/globale-e-id-initiativen---ihre-moeglichkeiten-und-grenzen?id=83db5967-74ff-4cf7-b22a-d7aa7ee712e5][Podcast]]
+- Norbert Häring: [[https://norberthaering.de/die-regenten-der-welt/srf-id2020][Hörempfehlung: Bericht des Schweizer Rundfunks über ID2020,
+  Known Traveller und Co.]]
 
 ** Better Than Cash initiative
 
@@ -907,13 +924,12 @@ hohen Entwicklungskosten.
 
 Das [[https://thecommonsproject.org/commonpass][CommonPass Project]] befindet sich seit Oktober in der Testphase, wie
 aero.de am 12.10.2020 berichtet: [[https://www.aero.de/news-37215/CommonPass-soll-internationales-Reisen-wieder-ermoeglichen.html]["CommonPass" soll internationales Reisen
-wieder ermöglichen.]]  Mithilfe des CommonPass können Länder effizient
+wieder ermöglichen]]. Mithilfe des CommonPass können Länder effizient
 Einreisebeschränkungen umsetzen. Nur wer mithilfe eines auf seinem Smartphone
 hochgeladenen negativen Testresultat oder eines Impfnachweises seine
 Ungefährlichkeit nachweisen kann, darf einreisen.
 
-Das WEF bewirbt den CommonPass auf seiner Covid-Action Plattform:
-[[https://www.weforum.org/projects/commonpass][weforum.org/projects/commonpass]].
+Das WEF [[https://www.weforum.org/projects/commonpass][bewirbt den CommonPass]] auf seiner Covid-Action Plattform.
 
 *** CommonHealth
 
