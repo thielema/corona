@@ -13,7 +13,7 @@ es, Menschen zum Gespräch anzuregen.
 
 Der Anlass für diese Zusammenstellung war ein klärendes Gespräch zu Corona in
 der Familie. Glücklicherweise stellte es sich heraus, dass die Ansichten gar
-nicht so weit auseinander lagen: Die Massnamen sind überzogen und das Virus
+nicht so weit auseinander lagen: Die Maßnamen sind überzogen und das Virus
 wahrscheinlich eine mehr oder minder gewöhnliche Grippe. Nur die politischen
 Hintergründe sind unklar.
 
@@ -243,6 +243,11 @@ fest. Er gehe davon aus, dass die Grippewelle in etwa fünf bis sechs Wochen
 über den restlichen Teil des Landes hinwegziehen werde." - Deutsche Welle,
 [[https://www.dw.com/de/schweinegrippe-auf-dem-vormarsch/a-4850220][Schweinegrippe auf dem Vormarsch]]
 
+Es gibt große Zweifel, ob Drosten tatsächlich promoviert hat. Es ist
+allerdings auch möglich, die bisherigen Unstimmigkeiten damit zu erklären,
+dass Promotionen in der Medizin generell nicht so streng sind wie in anderen
+Fachbereichen.
+
 *** Neil Ferguson
 
 Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=66244][Corona und gekaufte Wissenschaft – Wie falsche Wissenschaft
@@ -346,6 +351,14 @@ SARS Viren mehr bei Menschen zirkulieren würden.
 
 Das Virus ist bis heute von niemandem isoliert worden.
 
+Das [[https://dejure.org/gesetze/IfSG/2.html][Infektionsschutzgesetz]] definiert eine Infektion wie folgt: "die Aufnahme
+eines Krankheitserregers und seine nachfolgende Entwicklung oder Vermehrung im
+menschlichen Organismus".
+
+Der PCR Test ist allerhöchstens gegeignet, die Aufnahme eines
+Krankheitserregers nachzuweisen. Trotzdem wird irreführenderweise von
+Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
+
 - 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
   https://www.youtube.com/watch?v=cFAq8CqN1Gg
 - Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
@@ -374,63 +387,114 @@ Das Land Bayern hat keine Akten über die Grundlagen der Verordnungen:
 https://www.heise.de/tp/features/Bayerische-Regierung-hat-angeblich-keine-Akten-zu-Corona-Beschluessen-4903549.html
 https://www.ckb-anwaelte.de/corona-update-17-august-2020
 
+Das Österreichische Verfassungsgericht hat die Corona-Verordnungen für
+ungültig erklärt, weil nicht ersichtlich war, auf welcher Basis die Maßnahmen
+beschlossen wurden.
+
 *** Experten
 
 Viele Experten würden gerne an einer öffentlichen Debatte mitwirken und
 bekommen diese Möglichkeit nicht. Stattdessen wird ihre Reputation angegriffen
-oder sogar Druck ausgeübt. Die folgenden Experten sind eine kleine Auswahl
-derjenigen, die sich bereits sehr früh kritisch über die angebliche extrem
-hohe Gefährlichkeit des Virus oder die Wirksamkeit der Maßnahmen geäußert
-haben.
+oder sogar Druck ausgeübt. Die folgenden Experten sind eine kleine,
+alphabetische Auswahl derjenigen, die sich bereits sehr früh kritisch über die
+angebliche extrem hohe Gefährlichkeit des Virus oder Angemessenheit der
+Maßnahmen geäußert haben.
 
-- [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und Infektionsepidemiologie
-  und ehem. Leiter des Instituts für Medizinische Mikrobiologie und Hygiene,
-  Autor des Spiegel Bestsellers "Corona Fehlalarm?"
-- Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
-  University of Manitoba
-- Dr. Yoram Lass - ehem. Generaldirektor des Israelitischen
-  Gesundheitsministeriums
-- [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
-  Kantonsspital St. Gallen
-- [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des Institutes
-  für Virologie und HIV-Forschung an der Medizinischen Fakultät der
-  Universität Bonn
-- Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
-- [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington Declaration"
-- [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
-  Disease Research and Policy an der University of Minnesota
-- [[https://de.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche][Prof. Peter C. Gøtzsche]] - Professor für klinisches Forschungsdesign und
-  Analyse, Mitbegründer der Cochrane Collaboration
-- [[https://de.wikipedia.org/wiki/Sunetra_Gupta][Prof. Dr. Sunetra Gupta]] - Professorin der Epidemiologie
-- [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für öffentliche
-  Gesundheit
-- Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
-  Université Pierre et Marie Curie in Paris
-- [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
-  Stanford
-- [[https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya][Prof. Dr. Jay Bhattacharya]], Stanford
-- [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
-  regionale Gesundheitsdienste
-- [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
-- [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
-- [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
-  Epidemiologie und Forschungsdesign an der Rockefeller-Universität
-- [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-- [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie und
-  Virologie an die Martin-Luther-Universität Halle-Wittenberg
-- Dr. med. Claus Köhnlein, Internist, Autor des Buches "Virus-Wahn" (2009)
-- [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
-  Helmholtz-Zentrum für Infektionsforschung in Braunschweig
-- [[https://de.wikipedia.org/wiki/Gerd_Gigerenzer][Prof. Dr. Gerd Gigerenzer]] - Psychologe, kritisiert die Panikmache
-- [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
-  und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-- [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle und
-  Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus Eppendorf
+1. [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
+   Stanford
+2. [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und
+   Infektionsepidemiologie und ehem. Leiter des Instituts für Medizinische
+   Mikrobiologie und Hygiene, Autor des Spiegel Bestsellers "Corona
+   Fehlalarm?"
+3. [[https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya][Prof. Dr. Jay Bhattacharya]], Stanford
+4. [[https://de.wikipedia.org/wiki/Gerd_Gigerenzer][Prof. Dr. Gerd Gigerenzer]] - Psychologe, kritisiert die Panikmache
+5. [[https://de.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche][Prof. Peter C. Gøtzsche]] - Professor für klinisches Forschungsdesign und
+   Analyse, Mitbegründer der Cochrane Collaboration
+6. [[https://de.wikipedia.org/wiki/Sunetra_Gupta][Prof. Dr. Sunetra Gupta]] - Professorin der Epidemiologie
+7. Dr. Yoram Lass - ehem. Generaldirektor des Israelitischen
+   Gesundheitsministeriums
+8. [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle und
+   Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus
+   Eppendorf
+9. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
+   regionale Gesundheitsdienste
+10. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
+    Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
+    Corona-Ausschuss
+11. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington Declaration"
+12. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie und
+    Virologie an die Martin-Luther-Universität Halle-Wittenberg
+13. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+    University of Manitoba
+14. Dr. med. Claus Köhnlein, Internist, Autor des Buches "Virus-Wahn" (2009)
+15. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+    Helmholtz-Zentrum für Infektionsforschung in Braunschweig
+16. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+17. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+    Disease Research and Policy an der University of Minnesota
+18. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+19. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+20. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+21. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+    und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
+22. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des
+    Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
+    der Universität Bonn
+23. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+    öffentliche Gesundheit
+24. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+    Kantonsspital St. Gallen
+25. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+    Université Pierre et Marie Curie in Paris
+26. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+    Epidemiologie und Forschungsdesign an der Rockefeller-Universität
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
 Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
 Formen des Drucks, der auf Experten ausgeübt wurde anstatt mit ihnen zu
 debatieren.
+
+Es liegt natürlich die Vermutung nahe, dass auch für die gegenteilige Meinung
+eine Reihe von Experten aufgelistet werden kann. Tatsächlich listed z.B. die
+[[https://www.handelszeitung.ch/panorama/long-read/propheten-der-pandemie-die-wichtigsten-corona-experten][Handelszeitung]] 12 Experten, die sich besorgt über die Pandemie oder zustimmend
+zu den Maßnahmen äußern:
+
+- Prof. Dr. Christian Drosten, Virologe
+- Nicola Low, Epidemiologin, Uni Bern
+- Dr. Lothar Wieler, Präsident Robert Koch-Institut, Tierarzt
+- Dr. Isabella Eckerle, Leiterin Infektiologie Unispital Genf, Studentin bei
+  Drosten
+- Pietro Vernazza, ist eigentlich ein Kritiker der Maßnahmen, gehört also
+  nicht in diese Liste
+- Prof. Tanja Stadler, Mathematikerin, Mitglied des Covid-19-Taskforce des
+  Bundes (Schweiz)
+- [[https://de.wikipedia.org/wiki/Marcel_Salath%C3%A9][Marcel Salathé]], Epidemiologe, ETH Lausanne, Leiter des "Digital Epidemiology
+  Lab" und Teamleiter der Organisation "[[https://en.wikipedia.org/wiki/AI_for_Good][AI for Good]]". AI for Good wird von
+  Amazon, Microsoft und zahlreichen UN Organisationen gesponsort. Salathés
+  Arbeitsschwerpunkt der Künstlichen Intelligenz bringt ihn in direkte
+  Verbindung oder sogar Abhängigkeit zu den großen Datenkonzernen und ihren
+  Datensammlungen.
+- [[https://de.wikipedia.org/wiki/Emma_Hodcroft][Dr. Emma Hodcroft]], Forscherin am Biozentrum in Basel. Sie mag eine gute
+  Wissenschaftlerin sein, ist aber einfach zu jung um als Expertin bezeichnet
+  werden zu können.
+- Beda Stadler, er gehört auch in die Liste der scharfen Kritiker.
+- Anthony Fauci, US-Chef-Virologe
+- [[https://de.wikipedia.org/wiki/Christian_Althaus][Christian Althaus]], Epidemiologe, Universität Bern. Kommentar von
+  [[https://corona-transition.org/die-2000-tweets-eines-nachwuchsprofessors][Corona-Transition]]. Er hat eigentlich Bioinformatik studiert. Sein [[https://www.ispm.unibe.ch/about_us/staff/althaus_christian/index_eng.html#pane200095][Lebenslauf]]
+  ist noch sehr kurz. Für [[https://www.google.com/search?q=Christian+Althaus&source=lnt&tbs=cdr%3A1%2Ccd_min%3A%2Ccd_max%3A11%2F1%2F2019&tbm=][Google ist er vor November 2019]] völlig unbekannt.
+- Adriano Aguzzi, Neuropathologe, Unispital Zürich
+
+Von den 12 Experten äußern sich zwei kritisch zur Panik und den Maßnahmen. Es
+bleiben also 10 Experten, von denen mindestens einer einen klaren
+Interessenskonflikt hat. Unter den 9 Experten ist ein Tierarzt und eine
+Mathematikerin. Keiner der sogenannten Experten spielt in der gleichen Liga
+wie die aufgeführten kritischen Experten.
+
+Die Leopoldina hat eine [[https://www.leopoldina.org/publikationen/detailansicht/publication/expertinnen-und-experten-zur-coronavirus-pandemie-2020][Liste von Experten]] veröffentlicht die ernstzunehmender
+aussieht. Allerdings ist nicht ersichtlich, welche Meinung diese Experten
+vertreten. Die Nachdenkseiten über die [[https://www.nachdenkseiten.de/?p=60193][Leopoldina]] und [[https://www.nachdenkseiten.de/?p=60325][Leserbriefe]] dazu.
+
+TODO: Liste Deutscher Experten bei [[https://www.t-online.de/gesundheit/krankheiten-symptome/id_87815006/coronavirus-pandemie-das-sind-die-fuehrenden-experten-in-deutschland.html][t-online]]
 
 **** Dr. John Ioannidis
 
@@ -557,6 +621,15 @@ Beteiligte:
   Bernhard-Nocht-Institut für Tropenmedizin in Hamburg
 
 Unterstützt von 30 Verbänden und Vereinen.
+
+**** 2020-11-05 Offener Brief der Anwälte für Aufklärung
+
+Über 60 Anwälte verurteilen in einem [[https://www.afa.zone/wp-content/uploads/2020/11/Offener-Brief-AfA.pdf][offenem Brief]] die massiven Verstöße gegen
+Recht und Gesetz durch Corona-Maßnahmen. [[https://www.youtube.com/watch?v=6Y67uTHL6Jk][Ankündigungsvideo]]
+
+Die Sprecherin im Video ist die Rechtsanwältin Beate Bahner, die im April
+bereits gegen die Corona Maßnahmen geklagt hat und deswegen in die Psychatrie
+zwangseingewießen wurde. ([[https://www.lto.de/recht/hintergruende/h/rechtsanwaeltin-bahner-heidelberg-corona-skepsis-grdunrechte-psychiatrie-verschwoerung][Artikel]])
 
 ** Prominente Kritiker, aber keine Experten
 
@@ -685,6 +758,11 @@ Totalüberwachung zu etablieren.
 entwickelt werden und müsse bussgeldbewährt zur Pflicht werden." - Thomas
 Röwekamp, Fraktionsvorsitzender CDU, Bremen. [[https://www.weser-kurier.de/bremen/bremen-stadt_artikel,-bremer-cdu-fordert-pflicht-fuer-coronawarnapp-_arid,1941891.html][Weser Kurier]], 31.10.2020
 
+Drosten geht eine Pflicht zur Corona App noch nicht weit genug. Er empfiehlt
+auch eine App für ein Kontakttagebuch.  RT Deutsch, 5.11.2020: [[https://deutsch.rt.com/inland/108777-kommt-corona-pflicht-app-bremer][Kommt die
+Corona-Pflicht-App? Bremer CDU will das allgemeine Persönlichkeitsrecht
+einschränken]]
+
 Euronews, 18.10.2020: [[https://de.euronews.com/2020/10/18/bisher-kaum-hilfreich-corona-app-bald-obligatorisch][Was bringen die Corona-Apps? Portugal will sie
 verpflichtend machen]]
 
@@ -722,6 +800,9 @@ Coronamaßnahmen beschrieben. Er ist für seine Pflicherfüllung diszipliniert
 worden. Eine Diskussion fand nicht statt, obwohl Kohn für sein Papier
 hochrangige Experten konsultiert hat.
 
+Die Webseite https://kollateral.news sammelt Beispiele von Leid, das durch die
+Maßnahmen ausgelöst wird.
+
 *** Tote in Entwicklungsländern
 
 23.9.2020, Reuters: [[https://de.reuters.com/article/afrika-virus-m-ller-idDEKCN26E0MN][Entwicklungsminister - An Lockdown-Folgen sterben mehr
@@ -743,6 +824,16 @@ Volk und Staat]] vom 28. Februar 1933.
 - In der Schweiz gibt es die Initiative [[https://notrecht-referendum.ch][Notrecht Referendum]] zur Beendigung des
   Notstandes.
 
+*** Impfzwang
+
+1:20:00 https://www.youtube.com/watch?v=HrOYvb7uuRY
+
+In Polen und Australien gäbe es bereits eine Impfpflicht. In Australien mit
+hohen Geldstrafen oder Gefängnis bei Nichtbefolgung.
+
+Ein indirekter Impfzwang ist im Infektionsschutzgesetzt vom 6.11.2020
+vorgesehen. [[https://www.nachdenkseiten.de/?p=66594][Nachdenkseiten]]: Ohne Impfnachweis kann die Einreise nach
+Deutschland untersagt werden.
 
 * Ist es eine Pandemie?
 ** Sterblichkeit
@@ -998,7 +1089,24 @@ Medien versagen regelmäßig bei entscheidenden Themen:
 - Außerdem gibt es viele Wissenschaftler, die widersprechen, vor allem solche,
   die ihre Karriere hinter sich haben.
 
-* Ausblick
+* Was tun?
+** Kleine Aktionen
+
+Das wichtigste ist es, mit möglichst vielen Menschen ins Gespräch zu
+kommen. Dabei soll auch diese Zusammenstellung helfen.
+
+Man kann auch dort, wo es unvermeidbar ist, mit einer speziellen Maske seinen
+Protest ausdrücken, z.B. mit einer [[https://www.meinungsmaske.com][Meinungsmaske]]. Auch Masken die
+offensichtlich zu große Maschen haben zeigen Protest. Besonders schön ist auch
+eine rote Clownnase, die auf der Maske mit einer Sicherheitsnadel angebracht
+wird. Es wird berichtet, dass eine Clownnase ein guter Eisbrecher sei, um ins
+Gespräch zu kommen.
+
+** Partei: Die Basis
+
+https://diebasis-partei.de
+
+** Unsere kulturelle Basis wiederbeleben
 
 Es ist zu hoffen, dass es dem Weltwirtschaftsforum nicht gelingt, seine Pläne
 umzusetzen. Doch was dann? Sollten die Machtstrukturen bestehen bleiben, so
@@ -1054,6 +1162,7 @@ mag von Tag zu Tage leben.
   vollständigen URLs. Der Journalist [[https://miloszmatuschek.substack.com/p/friebelwef][Milosz Matuschek unterstützt den Aufruf]]
   und bestätigt Friebel's Identität.
 - https://www.corona-experten.de - TODO noch zu prüfen!
+- https://schlussjetzt.org - Netzwerk kritischer Juristen
 
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
@@ -1073,7 +1182,7 @@ erfolgt, sonst wüsste die Presse schon, wer dafür verantwortlich sei.
 [[https://de.wikipedia.org/wiki/Thomas_Oppermann_(Politiker)][Oppermann]] bricht am 25.10.2020 mit 66 Jahren kurz vor einem geplanten Auftritt
 in der Fernsehsendung "Berlin direkt". ([[https://www.n-tv.de/politik/SPD-Politiker-Thomas-Oppermann-ist-tot-article22123973.html][Artikel ntv]]) Er stirbt wenig später im
 Krankenhaus. Wenige Tage vorher forderte Oppermann noch eine Generaldebatte
-des Bundestages zu den Coronamassnahmen. ([[https://www.spiegel.de/politik/deutschland/sperrstunde-in-berlin-thomas-oppermann-kritisiert-corona-politik-von-bund-und-laendern-a-1db27890-aa14-4a5a-9264-1106c3bce0e0][Artikel Spiegel]])
+des Bundestages zu den Coronamaßnahmen. ([[https://www.spiegel.de/politik/deutschland/sperrstunde-in-berlin-thomas-oppermann-kritisiert-corona-politik-von-bund-und-laendern-a-1db27890-aa14-4a5a-9264-1106c3bce0e0][Artikel Spiegel]])
 
 *** Mario Ohoven, Präsident des Bundesverbandes Mittelständische Wirtschaft
 
@@ -1102,6 +1211,9 @@ Bundesverfassungsgericht anzurufen.
 - Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
 - Corona Song von Dieter Hallervorden [[https://www.youtube.com/watch?v=k4OFXkcn24Q][YT]]
 - Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
+
+Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
+ist. Ich glaube, "Vodka" hieß der?
 
 # Local Variables:
 # org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true }\n"
