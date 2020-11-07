@@ -99,6 +99,11 @@ Bevor die beiden Fragen nach der Evidenz und der Erklärung für die
 Gleichschaltung beantwortet werden, sollen zunächst Gründe für berechtigten
 Zweifel an der offiziellen Geschichte betrachtet werden.
 
+Besonders wichtig sind die letzten beiden Abschnitte über asymptotische
+Infektiösität und die Eignung von PCR Tests für den Nachweis von
+Infektionen. Diese beiden Aussagen sind die tragenden Säulen für die
+Behauptung einer weltweiten Pandemie und für die Begründung von Lockdowns.
+
 ** Vergleich mit anderen Gefahren
 
 Politiker und Medien behaupten, im Interesse der allgemeinen Gesundheit zu
@@ -337,49 +342,6 @@ Auch in Österreich ist Angst anscheinend bewusst als Mittel eingesetzt worden:
 
 - meinbezirk.at: [[https://www.meinbezirk.at/wieden/c-politik/bevoelkerung-soll-angst-vor-ansteckung-haben_a4046607][Bevölkerung soll "Angst vor Ansteckung" haben]]
 - Die Presse: [[https://www.diepresse.com/5805870/regierungsprotokoll-angst-vor-ansteckung-erwunscht][Regierungsprotokoll: Angst vor Ansteckung erwünscht?]]
-
-** PCR Tests
-
-Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
-nahm stattdessen aus seiner Datenbank typische Genfragmente eines Coronavirus,
-entwickelte für diesen einen Test und schickte den Test nach Wuhan. Weil der
-Test bei Patienten in Wuhan positiv war, behauptete er, dass der Test geeignet
-sei, das neue SARS CoV-2 Virus nachzuweisen.
-
-Er behauptet, dass dieses Verfahren gerechtfertigt sei, weil seit Jahren keine
-SARS Viren mehr bei Menschen zirkulieren würden.
-
-Das Virus ist bis heute von niemandem isoliert worden.
-
-Das [[https://dejure.org/gesetze/IfSG/2.html][Infektionsschutzgesetz]] definiert eine Infektion wie folgt: "die Aufnahme
-eines Krankheitserregers und seine nachfolgende Entwicklung oder Vermehrung im
-menschlichen Organismus".
-
-Der PCR Test ist allerhöchstens gegeignet, die Aufnahme eines
-Krankheitserregers nachzuweisen. Trotzdem wird irreführenderweise von
-Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
-
-- 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
-  https://www.youtube.com/watch?v=cFAq8CqN1Gg
-- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
-  Methode ist so empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus
-  nachweisen kann. Wenn ein solcher Erreger zum Beispiel bei einer
-  Krankenschwester mal eben einen Tag lang über die Nasenschleimhaut huscht,
-  ohne dass sie erkrankt oder sonst irgend etwas davon bemerkt, dann ist sie
-  plötzlich ein Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun
-  plötzlich milde Fälle und Menschen, die eigentlich kerngesund sind, in der
-  Meldestatistik enthalten. Auch so ließe sich die Explosion der Fallzahlen in
-  Saudi-Arabien erklären. Dazu kommt, dass die Medien vor Ort die Sache
-  unglaublich hoch gekocht haben."
-- Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
-  Labor macht sein eigenes Testverfahren.
-  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests
-- PCR Tests sind für Diagnosen nicht zugelassen.
-- Es wird mit viel zu hoher Sensibilität getestet, z.B. [[https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert][bioscientia]]
-  - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
-    Nachweis eines einzelnen Gens je nach Spezifität als positiv für
-    SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
-    empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
 
 ** Keine ausreichende Diskussion
 
@@ -834,6 +796,82 @@ hohen Geldstrafen oder Gefängnis bei Nichtbefolgung.
 Ein indirekter Impfzwang ist im Infektionsschutzgesetzt vom 6.11.2020
 vorgesehen. [[https://www.nachdenkseiten.de/?p=66594][Nachdenkseiten]]: Ohne Impfnachweis kann die Einreise nach
 Deutschland untersagt werden.
+
+** PCR Tests
+
+Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
+nahm stattdessen aus seiner Datenbank typische Genfragmente eines Coronavirus,
+entwickelte für diesen einen Test und schickte den Test nach Wuhan. Weil der
+Test bei Patienten in Wuhan positiv war, behauptete er, dass der Test geeignet
+sei, das neue SARS CoV-2 Virus nachzuweisen.
+
+Er behauptet, dass dieses Verfahren gerechtfertigt sei, weil seit Jahren keine
+SARS Viren mehr bei Menschen zirkulieren würden.
+
+Das Virus ist bis heute von niemandem isoliert worden.
+
+Das [[https://dejure.org/gesetze/IfSG/2.html][Infektionsschutzgesetz]] definiert eine Infektion wie folgt: "die Aufnahme
+eines Krankheitserregers und seine nachfolgende Entwicklung oder Vermehrung im
+menschlichen Organismus".
+
+Der PCR Test ist allerhöchstens gegeignet, die Aufnahme eines
+Krankheitserregers nachzuweisen. Trotzdem wird irreführenderweise von
+Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
+
+- 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
+  https://www.youtube.com/watch?v=cFAq8CqN1Gg
+- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
+  Methode ist so empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus
+  nachweisen kann. Wenn ein solcher Erreger zum Beispiel bei einer
+  Krankenschwester mal eben einen Tag lang über die Nasenschleimhaut huscht,
+  ohne dass sie erkrankt oder sonst irgend etwas davon bemerkt, dann ist sie
+  plötzlich ein Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun
+  plötzlich milde Fälle und Menschen, die eigentlich kerngesund sind, in der
+  Meldestatistik enthalten. Auch so ließe sich die Explosion der Fallzahlen in
+  Saudi-Arabien erklären. Dazu kommt, dass die Medien vor Ort die Sache
+  unglaublich hoch gekocht haben."
+- Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
+  Labor macht sein eigenes Testverfahren.
+  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests
+- PCR Tests sind für Diagnosen nicht zugelassen. Das steht auf allen
+  Beschreibungen von PCR Tests.
+- Es wird mit viel zu hoher Sensibilität getestet, z.B. [[https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert][bioscientia]]
+  - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
+    Nachweis eines einzelnen Gens je nach Spezifität als positiv für
+    SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
+    empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
+
+Ein großes Problem der PCR Tests ist ihre hohe Sensitivität. Es muss darum
+sehr große Sorgfalt darauf verwendet werden, das Labor, Probenträger, Geräte
+und alle anderen Materialien nicht mit dem Virus zu verunreinigen. Bei der
+hohen Anzahl von Tests ist es umso schwieriger, Fehler zu vermeiden.
+
+Ein bekanntes Beispiel einer Laborverunreinigun ist das "[[https://de.wikipedia.org/wiki/Heilbronner_Phantom][Heilbronner
+Phantom]]". Wattestäbchen in einem Labor waren mit dem Genmaterial einer Frau
+verunreinigt. Die Nachrichten berichteten mehrere Jahre von einer
+geheimnisvollen Serienmörderin, die in ganz Deutschland Morde beginge.
+
+Eine kurze Internetsuche nach "PCR" und "Kontaminierung" oder "contamination"
+führt zu vielen Ergebnissen: [[https://bitesizebio.com/20773/clean-up-your-act-how-to-clean-up-pcr-contamination][1]] [[https://eu.idtdna.com/pages/education/decoded/article/could-your-pcr-be-affected-by-contamination][2]] [[https://www.labclinics.com/en/six-ways-to-minimize-contamination-during-pcr][3]]. Es ist demnach sehr schwer, ein Labor
+nicht zu verunreinigen.
+
+** Asymptotische Infektiösität
+
+Die umfangreihen Schutzmaßnahmen werden mit der Annahme begründet, dass selbst
+Menschen ohne Krankheitssymptome die Covid-19 Erkrankung verbreiten könnten.
+
+Prof. Kämmerer erklärt in [[https://www.youtube.com/watch?v=3mZ8TsO8ot0][Corona-Ausschuß Sitzung 26]], dass es in der
+wissenschaftlichen Literatur bisher keinen Beweis für die Möglichkeit einer
+asymptotischen Übertragung gibt. Die ursprüngliche Behauptung Drosten's beruht
+auf der chinesischen Mitarbeiterin (Patient 0), die das Virus nach Deutschland
+gebracht habe. Es stellte sich jedoch später heraus, dass diese Mitarbeiterin
+Paracetamol genommen habe und Schüttelfrost hatte.
+
+Prof. Stadler widerspricht prinzipiell der Möglichkeit einer symptomlosen
+Übertragung in signifikanter Häufigkeit. Eine Infektiösität setzt voraus, dass
+das Virus bereits in die Zellen eingedrungen ist und sich dort vermehrt. In
+diesem Moment gibt es aber bereits eine starke Antwort des Immunsystems mit
+entsprechenden Symptomen.
 
 * Ist es eine Pandemie?
 ** Sterblichkeit
