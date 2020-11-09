@@ -1,6 +1,7 @@
 #+TITLE: Corona - Anregungen zum Reden
 #+SUBTITLE: Aktuelle Version: http://corona.koch.ro
-#+OPTIONS: toc:tl author:t creator:nil email:nil
+#+EMAIL: thomas+corona@koch.ro
+#+OPTIONS: toc:tl author:t creator:nil email:t
 #+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
 #+LATEX_HEADER: \usepackage{verse}
 #+LATEX_HEADER: \hypersetup{colorlinks=false}
@@ -252,6 +253,10 @@ Es gibt große Zweifel, ob Drosten tatsächlich promoviert hat. Es ist
 allerdings auch möglich, die bisherigen Unstimmigkeiten damit zu erklären,
 dass Promotionen in der Medizin generell nicht so streng sind wie in anderen
 Fachbereichen.
+
+"Aber zum Glück werden wir unterstützt durch öffentliche Forschungsmittel von
+der Europäischen Union und neuerdings auch von der Bill Gates Foundation, Bill
+& Melinda Gates Foundation" - [[https://www.ndr.de/nachrichten/info/16-Coronavirus-Update-Wir-brauchen-Abkuerzungen-bei-der-Impfstoffzulassung,podcastcoronavirus140.html][ndr, 18.03.2020]] ([[https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2019/11/OPP1216026][$253,000 in 2019]])
 
 *** Neil Ferguson
 
@@ -614,6 +619,15 @@ der Stasi bestätigen.
 Querdenker Demonstration in Leipzig auf: [[https://www.youtube.com/watch?v=39o9EfJV-0Q&t=990][YT]]. Eine ähnliche Nummer hat er
 vorher auch schon im Fernsehen gespielt: [[https://www.youtube.com/watch?v=olcuJKYdv-0][YT]].
 
+*** Vera Lengsfeld
+
+[[https://de.wikipedia.org/wiki/Vera_Lengsfeld][Lengsfeld]] ruft zum Widerstand auf: [[https://vera-lengsfeld.de/2020/11/06/stoppt-das-gesetz-zur-aushebelung-unserer-grundrechte][Stoppt das Gesetz zur Aushebelung unserer
+Grundrechte!]] (6.11.2020).
+
+Lengsfeld ist Trägerin des Aachener Friedenspreises und
+Bundesverdienstkreuzes, ehemaliges MdB, war Oppositionelle in der DDR
+([[https://vera-lengsfeld.de/biografie][Biografie]]).
+
 *** Heribert Prantl
 
 2.11.2020, SZ: Corona-Maßnahmen - Die Grenzen des Erträglichen. [[https://www.sueddeutsche.de/politik/corona-massnahmen-die-grenzen-des-ertraeglichen-1.5100174][Videokommentar
@@ -720,6 +734,17 @@ mit ruhigem Atem irgendeine messbare Wirkung hätte.
   signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. (TODO:
   link, Hausmitteilung 222/2020; Deutscher Bundestag; 28.08.2020)
 
+Betriebsleiter und Schulleiter sind persönlich haftbar für Schäden durch
+Maskentragen: Rechtsanwalt Ralf Ludwig über die Haftung der Arbeitgeber, die
+Masken anordnen [[https://www.youtube.com/watch?v=NKrlcel6FSA][YT]] ([[https://www.youtube.com/watch?v=TZFW4ERAARg][ausführliche Version]], [[https://www.youtube.com/watch?v=RF5jaRT-36g][Bittel TV Interview]]).
+
+- Stellungnahme des Koordinierungskreises für Biologische Arbeitsstoffe
+  (KOBAS) der DGUV vom 27.5.2020, aktualisierte Fassung 7.10.2020 [[https://www.dguv.de/medien/inhalt/praevention/themen_a_z/biologisch/kobas/tragezeitbegrenzung_kobas_27_05_2020.pdf][Link]]
+- HINWEISE DES BFARM ZUR VERWENDUNG VON MUND–NASEN-BEDECKUNGEN (Z.B. SELBST
+  HERGESTELLTEN MASKEN, „COMMUNITY- ODER DIY-MASKEN“), MEDIZINISCHEN
+  GESICHTSMASKEN SOWIE PARTIKELFILTRIERENDEN HALBMASKEN (FFP1, FFP2 UND FFP3)
+  IM ZUSAMMENHANG MIT DEM CORONAVIRUS (SARS-COV-2 / COVID-19) [[https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html][Link]]
+
 *** Schulschließungen
 
 *** Reisebeschränkungen
@@ -816,6 +841,20 @@ Die Deutsche Bischofskonferenz übt moralischen Druck aus ([[https://www.dbk.de/
 Pressemeldung]]): "Die Bereitschaft zur eigenen Impfung ist konkreter Ausdruck
 dieser Solidarität."
 
+Sebastian Friebel kommentiert:
+
+#+BEGIN_QUOTE
+Die Bundeskanzlerin betont, dass es keine Impfpflicht geben wird. Das ist
+korrekt. Man wird auf "Freiwilligkeit" setzen. Wenn sich dann nicht genug
+Menschen "freiwillig" impfen lassen, wird man die Corona-Maßnahmen fortsetzen
+und die Schuld dafür denjenigen geben, die sich nicht "freiwillig" geimpft
+haben. Auf diese Weise wird ein derartiger gesellschaftlicher Druck aufgebaut,
+dass eine Impfpflicht nicht erforderlich sein wird. Man wird den gleichen
+Effekt ganz einfach durch gesellschaftliche Ächtung erzielen. Das ist
+einkalkuliert und genau deswegen kann sich die Kanzlerin bereits jetzt
+festlegen."
+#+END_QUOTE
+
 ** PCR Tests
 
 Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
@@ -890,7 +929,7 @@ Prof. Stadler widerspricht prinzipiell der Möglichkeit einer symptomlosen
 Übertragung in signifikanter Häufigkeit. Eine Infektiösität setzt voraus, dass
 das Virus bereits in die Zellen eingedrungen ist und sich dort vermehrt. In
 diesem Moment gibt es aber bereits eine starke Antwort des Immunsystems mit
-entsprechenden Symptomen.
+entsprechenden Symptomen: "[[https://corona-transition.org/die-meisten-menschen-sind-gegen-das-virus-sowieso-immun][Es gibt keine Infektion ohne Entzündung]]".
 
 * Ist es eine Pandemie?
 ** Sterblichkeit
@@ -1029,9 +1068,20 @@ kurzer Zeit bereits ein Programm entwickelt, abgestimmt und mit einer extra
 programmierten Webseite veröffentlicht hat. Schließlich konnte man frühestens
 mit dem Lockdown Ende März davon ausgehen, dass es zu einer großen Krise käme.
 
+Das WEF formuliert ([[https://www.weforum.org/agenda/2020/08/building-blocks-of-the-great-reset][11.8.2020]]): "The World Economic Forum’s Great Reset
+initiative seeks new ideas in order to use this unique moment in history
+provided by the disruption to economics, politics and our everyday life to
+catalyze a new approach to how our societies are run."
+
 Die Verheißung des Great Reset liest sich wie eine Beschreibung des Paradies:
 [[https://time.com/collection/great-reset/5900739/fix-economy-by-2023][Time, 22.10.2020]]. Allerdings wollen die Großkonzerne die Götter dieses
 Paradieses sein.
+
+Man könnte versucht sein, den Sirenengesängen des WEF zu glauben und sich auf
+die schöne neue Welt zu freuen, die das WEF verheißt. Jedoch fällt es schwer,
+Menschen zu vertrauen, die in ihrem bisherigen Leben über Leichen gingen, die
+ihren Aufbruch in eine bessere Zukunft auf einer Lüge aufbauen und die auch
+beim Umbau der Welt wieder Millionen Tote in Kauf nehmen.
 
 ** ID2020 / Digital Identity Alliance
 
@@ -1224,6 +1274,10 @@ mag von Tag zu Tage leben.
   und bestätigt Friebel's Identität.
 - https://www.corona-experten.de - TODO noch zu prüfen!
 - https://schlussjetzt.org - Netzwerk kritischer Juristen
+- https://worlddoctorsalliance.com
+- https://acu2020.org
+- https://covileaks.co.uk
+- https://dasvolkgegencorona.com
 
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
@@ -1266,7 +1320,9 @@ Bundesverfassungsgericht anzurufen.
 - Clemens G. Arvay: Wir können es besser (Spiegel Bestseller)
 - Wolfgang Kubicki: Meinungsunfreiheit (Spiegel Bestseller)
 
-* Humor
+* Lustiges, Schönes, Ermutigendes
+
+Kabarett:
 
 - Die Echse über Sicherheitsmaßnahmen im Tierreich [[https://www.youtube.com/watch?v=zg3rV_vZmsU][YT]]
 - Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
@@ -1277,6 +1333,9 @@ Bundesverfassungsgericht anzurufen.
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
+
+- Das MUTMACH-Video 1: Berlin, 29.08.2020 QUERDENKEN - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=uiTMzA6fnt4][YT]]
+- Das MUTMACH-Video 2: Leipzig, 07.11.2020 - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=sdNqAmCAHYg][YT]]
 
 # Local Variables:
 # org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true }\n"
