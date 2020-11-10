@@ -907,6 +907,8 @@ Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
     Nachweis eines einzelnen Gens je nach Spezifität als positiv für
     SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
     empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
+- Selbst die Tagesschau bestätigt, dass ein hoher CT Wert problematisch sei:
+  6.9.2020 [[https://www.tagesschau.de/investigativ/ndr-wdr/gesundheitsaemter-corona-tests-101.html][Wie ansteckend sind die Patienten?]]
 
 Ein großes Problem der PCR Tests ist ihre hohe Sensitivität. Es muss darum
 sehr große Sorgfalt darauf verwendet werden, das Labor, Probenträger, Geräte
