@@ -1031,6 +1031,14 @@ Korea,
 Für Portugal und die Schweiz ist der Graph nicht eindeutig. Wichtige Länder
 fehlen auf der Seite: China, Russia, Belarus, Brasil, Venezuela, Australia.
 
+Der Rubikon Artikel [[https://www.rubikon.news/artikel/die-medikamenten-tragodie][Die Medikamenten-Tragödie]] (29.9.2020) dokumentiert, dass
+zum einen die Zeitverläufe der Sterblichkeiten mit ihrer kurzen Dauer und
+hohem Ausschlag in den Ländern mit Übersterblichkeit nicht typisch sind für
+eine Viruserkrankung. Vielmehr seien Empfehlungen der WHO gefolgt worden und
+Patienten mit hohen Dosen Nebenwirkungsreicher Medikamente zu Tode terapiert
+worden. Auch die Empfehlung zur Intubation (künstliche Beatmung) trage eine
+Mitschuld.
+
 * Was ist es dann?
 
 ** Das World Economic Forum
@@ -1174,6 +1182,15 @@ TODO: https://thecommonsproject.org/covidcheck
 *** CommonGEO
 
 TODO: https://thecommonsproject.org/commongeo
+
+** Wie kann es sein, dass alle mitmachen?
+
+TODO: https://www.rubikon.news/artikel/der-gekaufte-planet - Erpressung durch
+den IWF.
+
+Mithilfe von Event 201 und vorheriger Übungen wurde die internationale
+Zusammenarbeit aller Akteure, vor allem der Medien und Internetkonzerne geübt,
+siehe Paul Schreyer (Literatur).
 
 ** Aber warum liest und hört man nichts?
 
