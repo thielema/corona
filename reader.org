@@ -402,18 +402,21 @@ Maßnahmen geäußert haben.
 18. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
 19. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
 20. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-21. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+21. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+    Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
+    Fehlalarm?"
+22. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-22. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des
+23. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-23. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+24. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
-24. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+25. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-25. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+26. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
-26. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+27. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
@@ -785,6 +788,12 @@ verkürzten Verfahren zugelassen werden.
 Zum Thema Impfstoffe äußern sich z.B. [[https://www.clemensarvay.com][Clemens Arvay]], Sucharit Bhakdi, siehe
 für beide auch die Literaturhinweise.
 
+Russland hat inzwischen einen Impfstoff entwickelt, von dem keine
+schwerwiegenden Nebenwirkungen bekannt sind. Ungarn bereitet den Kauf dieses
+Impfstoffes vor, was die EU aber versucht zu verhindern. Wenn es wirklich um
+den Schutz der Bevölkerung ginge, sollte es doch egal sein, woher der
+Impfstoff kommt? Zumindest könnte man den Russischen Impfstoff testen.
+
 *** Maßnahmen die nicht diskutiert wurden
 
 - Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
@@ -912,6 +921,9 @@ geheimnisvollen Serienmörderin, die in ganz Deutschland Morde beginge.
 Eine kurze Internetsuche nach "PCR" und "Kontaminierung" oder "contamination"
 führt zu vielen Ergebnissen: [[https://bitesizebio.com/20773/clean-up-your-act-how-to-clean-up-pcr-contamination][1]] [[https://eu.idtdna.com/pages/education/decoded/article/could-your-pcr-be-affected-by-contamination][2]] [[https://www.labclinics.com/en/six-ways-to-minimize-contamination-during-pcr][3]]. Es ist demnach sehr schwer, ein Labor
 nicht zu verunreinigen.
+
+Es gibt inzwischen zahlreiche Beispiele von Spitzensportlern, die zunächst
+positiv und kurz darauf negativ getestet wurden: [[https://www.kicker.de/ad-absurdum-sechs-salzburger-erst-positiv-und-am-ende-doch-negativ-789296/artikel][1]]
 
 ** Asymptotische Infektiösität
 
@@ -1278,6 +1290,7 @@ mag von Tag zu Tage leben.
 - https://acu2020.org
 - https://covileaks.co.uk
 - https://dasvolkgegencorona.com
+- https://coronainfo-tour.de
 
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
@@ -1333,6 +1346,9 @@ Kabarett:
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
+
+Die [[https://biontech.de/connect][Adresse der Firma Biontech]], die auch an einem Impfstoff arbeitet, ist
+tatsächlich "An der Goldgrube 12" in Mainz.
 
 - Das MUTMACH-Video 1: Berlin, 29.08.2020 QUERDENKEN - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=uiTMzA6fnt4][YT]]
 - Das MUTMACH-Video 2: Leipzig, 07.11.2020 - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=sdNqAmCAHYg][YT]]
