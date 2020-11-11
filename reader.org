@@ -406,30 +406,36 @@ Maßnahmen geäußert haben.
     und Virologie an die Martin-Luther-Universität Halle-Wittenberg
 13. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
     University of Manitoba
-14. Dr. med. Claus Köhnlein, Internist, Autor des Buches "Virus-Wahn" (2009)
-15. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+14. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
+15. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
+    Medizinische Mikrobiologie und Infektionsepidemiologie am
+    Universitätsklinikum Leipzig, Interview: [[https://www.youtube.com/watch?v=rU28CfwCBx8][Genauigkeit der PCR- und
+    Antikörper-Tests beim Coronavirus]]
+16. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
     Helmholtz-Zentrum für Infektionsforschung in Braunschweig
-16. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
-17. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+17. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+18. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
     Disease Research and Policy an der University of Minnesota
-18. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
-19. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
-20. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-21. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+19. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+20. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+21. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+22. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
     Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
     Fehlalarm?"
-22. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+23. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
+    Spitz zu Immunonutrition]]
+24. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-23. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
+25. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-24. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+26. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
-25. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+27. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-26. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+28. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
-27. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+29. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
@@ -814,6 +820,9 @@ Impfstoffes vor, was die EU aber versucht zu verhindern. Wenn es wirklich um
 den Schutz der Bevölkerung ginge, sollte es doch egal sein, woher der
 Impfstoff kommt? Zumindest könnte man den Russischen Impfstoff testen.
 
+Radio München, 24.7.2020: [[https://www.youtube.com/watch?v=kWpzfqW34lA][Prof. Stephan Hockertz warnt vor millionenfach
+vorsätzlicher Körperverletzung]]
+
 *** Maßnahmen die nicht diskutiert wurden
 
 - Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
@@ -1008,6 +1017,16 @@ Die Auswertung des Statistischen Bundesamtes zu [[https://www.destatis.de/DE/The
 Lebenserwartung]] für das Jahr 2020 lässt keine besondere Übersterblichkeit für
 2020 erkennen. In der [[https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016][Übersicht der Einzeljahre]] sieht man deutlich, dass die
 Sterblichkeit in Deutschland im Jahr 2018 höher war als im Jahr 2020.
+
+*** Italien
+
+Alte Menschen mit Infektionen wurden in Altenheime zurückgeschickt:
+https://www.bernerzeitung.ch/und-jetzt-kommt-die-justiz-990930157202
+
+Im Januar 2020 gab es in Bergamo eine Impfkampagne gegen Meningitis mit 34000
+Teilnehmern. Diese Impfung ist dafür bekannt, dass sie das Immunsystem
+schwächt.
+https://www.bsnews.it/2020/01/18/meningite-vaccinate-34mila-persone-tra-brescia-e-bergamo
 
 *** Schweden
 
