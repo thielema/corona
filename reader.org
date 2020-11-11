@@ -285,6 +285,18 @@ TODO: Wikipedia ist nicht glaubwürdig. Siehe z.B. "Neues aus Wikihausen".
 - Absolutzahlen
 - Massive Zensur auf YouTube
   - https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown
+
+*** False Flag, Operationen unter falscher Flagge
+
+Die gezielte Inszenierung von Fernsehbildern zur Diskreditierung einer
+Bewegung gehört zum kleinen Einmaleins der Propaganda. Im Zusammenhang mit
+Querdenken-Demonstrationen sind zwei Ereignisse gut dokumentiert:
+
+- Sturm auf den Reichstag: https://www.kritische-polizisten.de
+- Gewalt in Leipzig
+  - [[https://www.reitschuster.de/post/leipzig-wie-die-gewalt-in-die-demo-kam][Leipzig: Wie die Gewalt in die Demo kam]] - Boris Reitschuster
+  - [[https://www.youtube.com/watch?v=E1mzryUeoTI][Provokateure von Leipzig]] - Rechtsanwalt Frank Hannig
+
 *** Strafen statt diskutieren
 **** Dr. Friedrich Pürner, Leiter Gesundheitsamt, Strafversetzt
 
@@ -369,7 +381,7 @@ Maßnahmen geäußert haben.
 
 1. [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
    Stanford
-2. [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und
+2. [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Prof. Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und
    Infektionsepidemiologie und ehem. Leiter des Instituts für Medizinische
    Mikrobiologie und Hygiene, Autor des Spiegel Bestsellers "Corona
    Fehlalarm?"
@@ -380,17 +392,18 @@ Maßnahmen geäußert haben.
 6. [[https://de.wikipedia.org/wiki/Sunetra_Gupta][Prof. Dr. Sunetra Gupta]] - Professorin der Epidemiologie
 7. Dr. Yoram Lass - ehem. Generaldirektor des Israelitischen
    Gesundheitsministeriums
-8. [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle und
-   Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus
+8. [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Prof. Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle
+   und Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus
    Eppendorf
 9. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
    regionale Gesundheitsdienste
 10. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
     Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
     Corona-Ausschuss
-11. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington Declaration"
-12. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie und
-    Virologie an die Martin-Luther-Universität Halle-Wittenberg
+11. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
+    Declaration"
+12. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
+    und Virologie an die Martin-Luther-Universität Halle-Wittenberg
 13. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
     University of Manitoba
 14. Dr. med. Claus Köhnlein, Internist, Autor des Buches "Virus-Wahn" (2009)
@@ -407,14 +420,14 @@ Maßnahmen geäußert haben.
     Fehlalarm?"
 22. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-23. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Hendrik Streeck]] - Professor für Virologie und Direktor des
+23. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
 24. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
 25. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-26. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+26. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
 27. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
@@ -737,9 +750,10 @@ mit ruhigem Atem irgendeine messbare Wirkung hätte.
   signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. (TODO:
   link, Hausmitteilung 222/2020; Deutscher Bundestag; 28.08.2020)
 
-Betriebsleiter und Schulleiter sind persönlich haftbar für Schäden durch
-Maskentragen: Rechtsanwalt Ralf Ludwig über die Haftung der Arbeitgeber, die
-Masken anordnen [[https://www.youtube.com/watch?v=NKrlcel6FSA][YT]] ([[https://www.youtube.com/watch?v=TZFW4ERAARg][ausführliche Version]], [[https://www.youtube.com/watch?v=RF5jaRT-36g][Bittel TV Interview]]).
+Betriebsleiter und Schulleiter in Deutschland sind persönlich haftbar für
+Schäden durch Maskentragen: Rechtsanwalt Ralf Ludwig über die Haftung der
+Arbeitgeber, die Masken anordnen [[https://www.youtube.com/watch?v=NKrlcel6FSA][YT]] ([[https://www.youtube.com/watch?v=TZFW4ERAARg][ausführliche Version]], [[https://www.youtube.com/watch?v=RF5jaRT-36g][Bittel TV
+Interview]]).
 
 - Stellungnahme des Koordinierungskreises für Biologische Arbeitsstoffe
   (KOBAS) der DGUV vom 27.5.2020, aktualisierte Fassung 7.10.2020 [[https://www.dguv.de/medien/inhalt/praevention/themen_a_z/biologisch/kobas/tragezeitbegrenzung_kobas_27_05_2020.pdf][Link]]
@@ -747,6 +761,12 @@ Masken anordnen [[https://www.youtube.com/watch?v=NKrlcel6FSA][YT]] ([[https://w
   HERGESTELLTEN MASKEN, „COMMUNITY- ODER DIY-MASKEN“), MEDIZINISCHEN
   GESICHTSMASKEN SOWIE PARTIKELFILTRIERENDEN HALBMASKEN (FFP1, FFP2 UND FFP3)
   IM ZUSAMMENHANG MIT DEM CORONAVIRUS (SARS-COV-2 / COVID-19) [[https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html][Link]]
+
+Die Schweizerische Unfallversicherungsanstalt empfiehlt eine maximale
+Maskentragedauer von drei Stunden: [[https://www.suva.ch/de-CH/material/Factsheets/atemschutz][Factsheet Atemschutz]]: "Es wird empfohlen,
+keinesfalls mehr als 3 Stunden mit Filtermasken ohne Gebläseunterstützung zu
+arbeiten. Bei Arbeiten mit Atemschutz sind feste Pausen einzuplanen. Die
+Arbeitsunterbrüche sollen mindestens eine halbe Stunde betragen."
 
 *** Schulschließungen
 
@@ -1283,8 +1303,10 @@ mag von Tag zu Tage leben.
 
 * Weitere Links
 
-- https://swprs.org/fakten-zu-covid-19
-- https://corona-ausschuss.de
+- https://corona-ausschuss.de - Vier Anwälte haben in dutzdenden,
+  mehrstündigen Live-Sitzungen mit Experten untersuchen, warum die Regierungen
+  beispiellose Beschränkungen verhängt haben und welche Folgen diese für die
+  Menschen hatten und haben.
 - Unerhört! Film: https://vimeo.com/471959768
   - Das volle Interview mit dem spanischen Krankenhausarzt
     https://www.youtube.com/watch?v=wl9h-7MaLws
@@ -1295,21 +1317,56 @@ mag von Tag zu Tage leben.
   https://www.youtube.com/watch?v=ZkyL4NxJJcc
   https://www.youtube.com/watch?v=1wP4-Z_lvyE
   Kurzfassung: https://www.youtube.com/watch?v=vCz34z3ymyY
+- https://www.corona-experten.de - TODO noch zu prüfen!
+- https://covileaks.co.uk
+- https://coronainfo-tour.de
+- https://corona-quiz.info
+- https://www.kritische-polizisten.de - Bundesarbeitsgemeinschaft kritischer
+  PolizistInnen
+
+** Medizin
+
+- https://swprs.org/fakten-zu-covid-19
 - http://www.aerzteklaerenauf.de
 - https://www.ärzte-für-aufklärung.de
+- https://worlddoctorsalliance.com
+- https://acu2020.org
+- [[https://www.mwgfd.de][Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.]]
+
+** Recht
+
+- https://schlussjetzt.org - Netzwerk kritischer Juristen
+- https://dasvolkgegencorona.com
+- https://www.corona-schadensersatzklage.de - Sammelklage für Geschädigte
+- https://klagepaten.eu - Hilfe bei rechtlichen Auseinandersetzungen
+- [[https://www.afa.zone][Anwälte für Aufklärung]]
+
+** Zahlen / Statistiken
+
+- https://www.intensivregister.de - Intensivbetten Deutschland
+- https://www.worldometers.info/de
+- https://www.euromomo.eu - Übersicht europäische Sterblichkeitszahlen
+- https://influenza.rki.de/Wochenberichte.aspx Wochenberichte des
+  Robert-Koch-Instituts
+
+** Alternative Medien
+
+- https://www.nachdenkseiten.de
+- https://www.rubikon.news
+- https://www.fairtalk.tv
+- https://www.reitschuster.de
+- https://www.kla.tv
+- https://bittel.tv - Schweiz mit Blick nach Deutschland
+- http://www.stricker.tv - Schweiz mit Blick nach Deutschland
+
+** Politik
+
 - https://wie-soll-es-weitergehen.de - Sebastian Friebel,
   ehem. parlamentarischer Berater des Deutschen Bundestages. Die meisten
   Aussagen seines Dokumentes finden sich auch in dieser
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
   vollständigen URLs. Der Journalist [[https://miloszmatuschek.substack.com/p/friebelwef][Milosz Matuschek unterstützt den Aufruf]]
   und bestätigt Friebel's Identität.
-- https://www.corona-experten.de - TODO noch zu prüfen!
-- https://schlussjetzt.org - Netzwerk kritischer Juristen
-- https://worlddoctorsalliance.com
-- https://acu2020.org
-- https://covileaks.co.uk
-- https://dasvolkgegencorona.com
-- https://coronainfo-tour.de
 
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
