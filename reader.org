@@ -962,6 +962,7 @@ Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
     empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
 - Selbst die Tagesschau bestätigt, dass ein hoher CT Wert problematisch sei:
   6.9.2020 [[https://www.tagesschau.de/investigativ/ndr-wdr/gesundheitsaemter-corona-tests-101.html][Wie ansteckend sind die Patienten?]]
+- Eine humoristische Erklärung des CT-Werts: [[https://www.youtube.com/watch?v=meArNRzMiPw][Was bedeutet der CT-Wert?]]
 
 Ein großes Problem der PCR Tests ist ihre hohe Sensitivität. Es muss darum
 sehr große Sorgfalt darauf verwendet werden, das Labor, Probenträger, Geräte
