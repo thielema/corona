@@ -320,13 +320,13 @@ Querdenken-Demonstrationen sind zwei Ereignisse gut dokumentiert:
   - [[https://www.youtube.com/watch?v=E1mzryUeoTI][Provokateure von Leipzig]] - Rechtsanwalt Frank Hannig
 
 *** Strafen statt diskutieren
-**** Dr. Friedrich Pürner, Leiter Gesundheitsamt, Strafversetzt
 
-Anfang November, merkur.de: [[https://www.merkur.de/bayern/coronavirus-bayern-markus-soeder-friedrich-puerner-gesundheitsamt-kritik-strategie-strafe-beamter-zr-13922061.html][Er kritisierte öffentlich Söders Corona-Politik:
-Gesundheitsamt-Chef wird strafversetzt]]
-
-Friedrich Pürner ist Facharzt, Epidemiologe und Chef des Gesundheitsamts
-Aichach-Friedberg bei Augsburg.
+- Dr. Friedrich Pürner - Facharzt, Epidemiologe und Chef des Gesundheitsamts
+  Aichach-Friedberg bei Augsburg. Leiter Gesundheitsamt, Strafversetzt. Anfang
+  November, merkur.de: [[https://www.merkur.de/bayern/coronavirus-bayern-markus-soeder-friedrich-puerner-gesundheitsamt-kritik-strategie-strafe-beamter-zr-13922061.html][Er kritisierte öffentlich Söders Corona-Politik:
+  Gesundheitsamt-Chef wird strafversetzt]].
+- Rainer Schregel - Amtsarzt Kanton St. Gallen, kritisierte Maßnahmen, wurde
+  [[https://www.medinside.ch/de/post/entlassener-arzt-rainer-schregel-wieder-eingestellt][unrechtmäßig gefeuert]]
 
 *** Manipulation
 
@@ -415,42 +415,45 @@ Maßnahmen geäußert haben.
 10. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
     Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
     Corona-Ausschuss
-11. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
+11. Prof. Dr. Ines Kappstein - Fachärztin für Mikrobiologie, Virologie und
+    Infektionsepigemiologie, Kritisierte die Masken, [[https://www.pnp.de/lokales/stadt-und-landkreis-passau/passau-stadt/Klinikum-distanziert-sich-von-seiner-Hygienikerin-3836110.html][Klinikleitung distanziert
+    sich]] und kündigt "personellen Wechsel" an
+12. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
     Declaration"
-12. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
+13. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
     und Virologie an die Martin-Luther-Universität Halle-Wittenberg
-13. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+14. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
     University of Manitoba
-14. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
-15. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
+15. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
+16. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
     Medizinische Mikrobiologie und Infektionsepidemiologie am
     Universitätsklinikum Leipzig, Interview: [[https://www.youtube.com/watch?v=rU28CfwCBx8][Genauigkeit der PCR- und
     Antikörper-Tests beim Coronavirus]]
-16. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+17. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
     Helmholtz-Zentrum für Infektionsforschung in Braunschweig
-17. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
-18. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+18. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+19. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
     Disease Research and Policy an der University of Minnesota
-19. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
-20. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
-21. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-22. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+20. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+21. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+22. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+23. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
     Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
     Fehlalarm?"
-23. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
+24. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
     Spitz zu Immunonutrition]]
-24. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+25. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-25. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
+26. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-26. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+27. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
-27. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+28. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-28. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+29. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
-29. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+30. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
@@ -1378,6 +1381,12 @@ mag von Tag zu Tage leben.
 - https://worlddoctorsalliance.com
 - https://acu2020.org
 - [[https://www.mwgfd.de][Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.]]
+
+** Petitionen, Initiativen
+
+- Schweiz: [[https://fruehling2020.com][Frühling2020]] - Unabhängige Untersuchung der Corona-Krise
+- Schweiz: [[https://notrecht-referendum.ch][Notrecht Referendum]] - gegen Verlängerung des Notrechts, von
+  [[https://verfassungsfreunde.ch][verfassungsfreunde.ch]]
 
 ** Recht
 
