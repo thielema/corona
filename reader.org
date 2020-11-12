@@ -275,7 +275,29 @@ Millionen US-Dollar von der BMGF.
 
 *** Wikipedia
 
-TODO: Wikipedia ist nicht glaubwürdig. Siehe z.B. "Neues aus Wikihausen".
+Das Thema Wikipedia bedarf eines eigenen langen Dokuments. Besonders Markus
+Fiedler hat auf seiner Seite [[https://wikihausen.de][Geschichten aus Wikihausen]] umfangreiches Material
+gesammelt. Sein Dokumentarfilm [[https://www.nachdenkseiten.de/?p=28035][Die dunkle Seite der Wikipedia]] wird auf Youtube
+anscheinend zensiert. Zur Zeit funktioniert dieser [[https://www.youtube.com/watch?v=6L8iVhCLJyU][Link]].
+
+Es gibt eine enge Zusammenarbeit zwischen Google und Wikipedia. Google benutzt
+die Daten von Wikipedia und spendet an die Wikimedia Foundation.
+
+Im "[[https://wikimediafoundation.org/role/board][Board of Trustees]]" der Wikimedia Foundation sieht man bereits an den
+Biografien die enge Anbindung an das liberale amerikanische
+Establishment. Weniger sichtbar ist die enge Zusammenarbeit mit der
+amerikanischen Organisation "[[https://www.newsguardtech.com/de/][NewsGuard]]". Jedoch sitzt der Wikipedia-Gründer
+[[https://de.wikipedia.org/wiki/Jimmy_Wales][Jimmy Wales]] im [[https://www.newsguardtech.com/de/unser-beirat/][Beirat von Newsguard]].
+
+Nicht nur sind etliche Mitglieder des NewsGuard Beirats direkt mit dem
+amerikanischen Militär verbunden. Newsguard bewirbt seine Zusammenarbeit mit
+dem U.S. Department of Defense und Department of State auch auf seiner
+[[https://www.newsguardtech.com][Homepage]].
+
+Wikipedia bevorzugt als [[https://de.wikipedia.org/wiki/Wikipedia:Belege#Was_sind_zuverl%C3%A4ssige_Informationsquellen?][Informationsquellen]] Zeitungen. Zeitungen arbeiten mit
+Faktencheckern zusammen. Die Faktenchecker orientieren sich an NewsGuard. Am
+Ende benutzen dann Journalisten die Wikipedia als Informationsquelle und Leser
+bekommen von Google die Wikipedia als erstes Suchergebnis präsentiert.
 
 ** Art der Kommunikation
 
@@ -308,26 +330,19 @@ Aichach-Friedberg bei Augsburg.
 
 *** Manipulation
 
-Aus "Wie-soll-es-weitergehen": "Die Medien nutzen auch die Macht der Bilder
-und setzen diese gezielt ein. Sie schockieren uns mit Aufnahmen von
-angeblichen Corona-Massengräbern in den USA, verschweigen aber gleichzeitig,
-dass verstorbene Obdachlose dort bereits seit vielen Jahren in Sammelgräbern
-bestattet werden und entsprechende Videoaufnahmen bereits 2016 entstanden
-sind. Sie zeigen uns dramatische Bilder von Militär-LKWs, die Särge im
-norditalienischen Bergamo abtransportieren und unterschlagen gleichzeitig die
-wichtige Information, dass laut dem Dachverband der italienischen
-Bestattungsbranche zu Beginn der Coronakrise 70 Prozent der
-Bestattungsunternehmen in der Region quarantänebedingt ihre Arbeit
-niederlegten und nur deswegen das Militär für einen einmaligen Transport von
-60 Särgen herangezogen wurde."
+[[https://www.t-online.de/nachrichten/panorama/id_87686578/corona-in-new-york-drohnenvideo-zeigt-massengrab-auf-insel-hart-island.html][Bilder von Massengräbern aus New York]] wirken besonders auf Deutsche
+schockierend da sie Assoziationen mit dem Holocaust aufrufen. Es wird
+allerdings verschwiegen, dass solche Massengräber an diesem Ort schon immer
+für Obdachlose ausgehoben werden, wie die Dokumentation "[[https://www.youtube.com/watch?v=pwN_rfOoIuA][The Potter's Field]]" zeigt.
 
-TODO: Quellen für den Absatz oben prüfen!
+Es werden Bilder von Italienischen Militärfahrzeugen gezeigt, die Särge
+transportieren. Es wird aber verschwiegen, dass ein großer Teil der
+Bestattungsunternehmen wegen der Quarantäne nicht arbeiten kann: 24.3.2020
+[[https://www.adnkronos.com/fatti/cronaca/2020/03/24/coronavirus-federazione-onoranze-funebri-problema-gestionale-smaltimento-defunti_Nmzs6lQ3x2ZApN2FzDAG3H.html][Coronavirus, Federazione Onoranze Funebri: "Emergenza crea problema
+gestionale"]]
 
-- The Potter´s Field; www.youtube.com; 2016
-- Coronavirus, Federazione Onoranze Funebri; www.adnkronos.com; 24.03.2020
-
-Daniele Ganser beschreibt einige Techniken der Manipulation am 11.9.: [[https://www.youtube.com/watch?v=3gertJ5VFfM][Corona
-und die Medien]], wie z.B.:
+Daniele Ganser beschreibt weitere Manipulationen in einem Vortrag vom 11.9.:
+[[https://www.youtube.com/watch?v=3gertJ5VFfM][Corona und die Medien]], wie z.B.:
 
 - Verwendung absoluter Zahlen oder Bezug
 - Gleichsetzung von Testpositiven mit Infizierten mit Hospitalisierten
@@ -753,8 +768,8 @@ mit ruhigem Atem irgendeine messbare Wirkung hätte.
   - 17:45 "Die Masken… das ist mehrfach untersucht worden. Es gibt einfach
     keine wissenschaftliche Evidenz, dass das irgendeinen Sinn hätte"
 - Eine interne Hausmitteilung des Deutschen Bundestages warnt vor der
-  signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. (TODO:
-  link, Hausmitteilung 222/2020; Deutscher Bundestag; 28.08.2020)
+  signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. Selbst
+  correctiv muss weit ausholen, um das zu [[https://correctiv.org/faktencheck/2020/09/24/mund-nasen-bedeckung-nein-der-bundestag-hat-mitarbeiter-nicht-vor-gesundheitsgefahren-durch-hohe-co2-werte-im-blut-gewarnt][erklären]].
 
 Betriebsleiter und Schulleiter in Deutschland sind persönlich haftbar für
 Schäden durch Maskentragen: Rechtsanwalt Ralf Ludwig über die Haftung der
@@ -799,13 +814,15 @@ verpflichtend machen]]
 
 *** Impfung
 
-TODO!
+Es gibt verschiedene Arten von Impfstoffen. Traditinonelle Impfstoffe beruhen
+auf deaktivierten Viren. Neuartige Impfstoffe basieren auf genetischer
+Manipulation von Zellen des geimpften.
 
-- Es gibt verschiedene Arten von Impfstoffen, manche davon sehr neu,
-  experimentell und vermutlich hochgefährlich. Bei der Impfung gegen die
-  Schweinegrippe soll es viele schwere Impfschäden gegeben haben.
+Der Schweinegrippe-Impfstoff Pandemrix wird für mehr als 1300 Fälle von
+unheilbarer Narkolepsie verantwortlich gemacht: Ärzteblatt 2.7.2015
+"[[https://www.aerzteblatt.de/nachrichten/63356/Grippeimpfung-Wie-Pandemrix-eine-Narkolepsie-ausloest][Grippeimpfung: Wie Pandemrix eine Narkolepsie auslöst]]. [[https://de.wikipedia.org/wiki/Schweinegrippe-Impfung#Narkolepsie][Wikipedia]]
 
-Siehe auch S.17 in "Wie-soll-es-weitergehen"
+Siehe auch S.17 in "Wie-soll-es-weitergehen" (Links).
 
 Es gab in der Humanmedizin bisher noch keinen zugelassenen Impfstoff gegen ein
 Virus aus der Corona-Familie. Trotzdem sollen nun Impfstoffe in extrem
@@ -821,7 +838,11 @@ den Schutz der Bevölkerung ginge, sollte es doch egal sein, woher der
 Impfstoff kommt? Zumindest könnte man den Russischen Impfstoff testen.
 
 Radio München, 24.7.2020: [[https://www.youtube.com/watch?v=kWpzfqW34lA][Prof. Stephan Hockertz warnt vor millionenfach
-vorsätzlicher Körperverletzung]]
+vorsätzlicher Körperverletzung]].
+
+Die Verabreichung der Impfung nicht durch den Hausarzt sondern durch
+spezialisierte Impfzentren birgt die Gefahr, dass nicht ausreichend über
+mögliche Nebenwirkungen aufgeklärt wird.
 
 *** Maßnahmen die nicht diskutiert wurden
 
@@ -1438,6 +1459,7 @@ Kabarett:
 - Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
 - Corona und das Grundgesetz - Satire | Die Mathias Richling Show [[https://www.youtube.com/watch?v=KiDRu5hwvI0][YT]]
 - Siehe den Abschnitt über Uwe Steimle
+- Die Möhre über den "Lockdown light" [[https://www.youtube.com/watch?v=D75goRwZ7x4][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
