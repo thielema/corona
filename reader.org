@@ -410,51 +410,66 @@ Maßnahmen geäußert haben.
 8. [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Prof. Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle
    und Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus
    Eppendorf
-9. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
-   regionale Gesundheitsdienste
-10. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
+9. [[https://de.wikipedia.org/wiki/John_Ioannidis][Prof. Dr. John Ioannidis]] - Prof. für Medizin und Professor für
+   Epidemiologie und Bevölkerungsgesundheit an der Stanford University School
+   of Medicine, sowie prof. by courtesy für biomedizinische Datenwissenschaft
+   an der Stanford University School of Medicine, prof.  by courtesy für
+   Statistik an der Stanford University School of Humanities and Sciences, und
+   Kodirektor des Innovationszentrum für Meta-Forschung in Stanford, ebenfalls
+   Stanford University School of Medicine. Er gehört zu den meist-zitierten
+   Wissenschaftlern weltweit.
+10. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
+    regionale Gesundheitsdienste
+11. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
     Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
     Corona-Ausschuss
-11. Prof. Dr. Ines Kappstein - Fachärztin für Mikrobiologie, Virologie und
+12. Prof. Dr. Ines Kappstein - Fachärztin für Mikrobiologie, Virologie und
     Infektionsepigemiologie, Kritisierte die Masken, [[https://www.pnp.de/lokales/stadt-und-landkreis-passau/passau-stadt/Klinikum-distanziert-sich-von-seiner-Hygienikerin-3836110.html][Klinikleitung distanziert
     sich]] und kündigt "personellen Wechsel" an
-12. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
+13. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
     Declaration"
-13. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
+14. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
     und Virologie an die Martin-Luther-Universität Halle-Wittenberg
-14. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+15. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
     University of Manitoba
-15. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
-16. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
+16. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
+17. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
     Medizinische Mikrobiologie und Infektionsepidemiologie am
     Universitätsklinikum Leipzig, Interview: [[https://www.youtube.com/watch?v=rU28CfwCBx8][Genauigkeit der PCR- und
     Antikörper-Tests beim Coronavirus]]
-17. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+18. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
     Helmholtz-Zentrum für Infektionsforschung in Braunschweig
-18. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
-19. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+19. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+20. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
     Disease Research and Policy an der University of Minnesota
-20. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
-21. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
-22. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-23. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+21. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+22. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+23. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+24. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
     Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
     Fehlalarm?"
-24. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
+25. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
     Spitz zu Immunonutrition]]
-25. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+26. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-26. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
+27. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-27. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+28. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
-28. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+29. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-29. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+30. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
-30. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+31. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
+32. [[https://de.wikipedia.org/wiki/Wolfgang_Wodarg][Dr. Wolfgang Wodarg]] - Lungen Facharzt, Initiator des
+    Untersuchungsausschusses zur Schweinegrippe 2009. [[https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)][Prof. Dr. Martin Schwab]],
+    Juraprofessor Bielefeld hat ein umfangreiches [[http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf][Dosier]] zur Verteidigung von
+    Wodarg erstellt. Das Dossier enthält auch Analysen, welche Aussagen nach
+    jetzigem Wissensstand als belegt angesehen werden können.  Nach Wodarg
+    eignet sich die Grippe in jedem Jahr, um eine Pandemie auszurufen: [[https://www.youtube.com/watch?v=jKaRvpTW8sE][Wodarg:
+    Industrieverbände bestimmen, ob man eine Pandemie ausruft (2013)]]
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
 Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
@@ -497,36 +512,27 @@ Interessenskonflikt hat. Unter den 9 Experten ist ein Tierarzt und eine
 Mathematikerin. Keiner der sogenannten Experten spielt in der gleichen Liga
 wie die aufgeführten kritischen Experten.
 
+Auf [[https://www.t-online.de/gesundheit/krankheiten-symptome/id_87815006/coronavirus-pandemie-das-sind-die-fuehrenden-experten-in-deutschland.html][t-online]] findet man 8 Experten. Zwei davon sind Kritiker der übertriebenen
+Maßnahmen: Alexander Kekulé und Hendrik Streeck. Drosten wurde bereits
+diskutiert, es bleiben fünf neue Namen:
+
+- [[https://de.wikipedia.org/wiki/Marylyn_Addo][Prof. Dr. Marylyn Addo]] - Infektiologin, arbeitet an einem Covid Impfstoff
+- [[https://de.wikipedia.org/wiki/Stephan_Becker_(Virologe)][Prof. Dr. Stephan Becker]] - Virologe, beteilig an der Entwicklung eines
+  Impfstoffes
+- [[https://de.wikipedia.org/wiki/Melanie_Brinkmann][Prof. Dr. Melanie Brinkmann]] - Virologin
+- [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Epidemiologe, ist für ausbalancieren von Maßnahmen
+  und Schutz von Risikogruppen [[https://www.merkur.de/welt/coronavirus-krause-epidemiologe-helmholtz-zentrum-pandemie-stoppen-nicht-moeglich-zr-90065443.html][Merkur]], kritisiert Druck auf Forscher [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]],
+  forderte schnelle Öffnung von Schulen [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]]
+- [[https://de.wikipedia.org/wiki/Jonas_Schmidt-Chanasit][Prof. Dr. Jonas Schmidt-Chanasit]] - äußert sich auf [[https://twitter.com/ChanasitJonas][Twitter]] sehr modarat und
+  fordert eher weniger Maßnahmen
+
+Also auch in der t-online Liste von Experten gibt es nur vier von acht, auf
+die sich die Politik berufen kann. Von diesen sind mindestens zwei eng mit
+Impfstoffentwicklung verbunden und alle vier sind Virologen.
+
 Die Leopoldina hat eine [[https://www.leopoldina.org/publikationen/detailansicht/publication/expertinnen-und-experten-zur-coronavirus-pandemie-2020][Liste von Experten]] veröffentlicht die ernstzunehmender
 aussieht. Allerdings ist nicht ersichtlich, welche Meinung diese Experten
 vertreten. Die Nachdenkseiten über die [[https://www.nachdenkseiten.de/?p=60193][Leopoldina]] und [[https://www.nachdenkseiten.de/?p=60325][Leserbriefe]] dazu.
-
-TODO: Liste Deutscher Experten bei [[https://www.t-online.de/gesundheit/krankheiten-symptome/id_87815006/coronavirus-pandemie-das-sind-die-fuehrenden-experten-in-deutschland.html][t-online]]
-
-**** Dr. John Ioannidis
-
-[[https://de.wikipedia.org/wiki/John_Ioannidis][John Ioannidis]] Professor für Medizin und Professor für Epidemiologie und
-Bevölkerungsgesundheit an der Stanford University School of Medicine, sowie
-professor by courtesy für biomedizinische Datenwissenschaft an der Stanford
-University School of Medicine, professor by courtesy für Statistik an der
-Stanford University School of Humanities and Sciences, und Kodirektor des
-Innovationszentrum für Meta-Forschung in Stanford, ebenfalls Stanford
-University School of Medicine. Er gehört zu den meist-zitierten
-Wissenschaftlern weltweit.
-
-Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31% mit
-großen regionalen Unterschieden. Dies liegt im Bereich der gewöhnlichen
-Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]].
-
-**** Wolfgang Wodarg
-
-Prof. Dr. Martin Schwab, Juraprofessor Bielefeld hat ein umfangreiches [[http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf][Dosier]]
-zur Verteidigung von Herrn Wodarg erstellt. Das Dossier enthält auch Analysen,
-welche Aussagen von Wodarg nach jetzigem Wissensstand als belegt angesehen
-werden können.
-
-Nach Wodarg eignet sich die Grippe in jedem Jahr, um eine Pandemie auszurufen:
-[[https://www.youtube.com/watch?v=jKaRvpTW8sE][Wodarg: Industrieverbände bestimmen, ob man eine Pandemie ausruft (2013)]]
 
 *** Positionspapiere, Gruppen, Verbände
 
@@ -1000,7 +1006,7 @@ diesem Moment gibt es aber bereits eine starke Antwort des Immunsystems mit
 entsprechenden Symptomen: "[[https://corona-transition.org/die-meisten-menschen-sind-gegen-das-virus-sowieso-immun][Es gibt keine Infektion ohne Entzündung]]".
 
 * Ist es eine Pandemie?
-** Sterblichkeit
+** Letalität von Covid-19
 
 Die WHO erklärt selber Anfang Oktober, dass bisher etwa 10% aller Menschen
 weltweit inifziert wurden. ([[https://off-guardian.org/2020/10/08/who-accidentally-confirms-covid-is-no-more-dangerous-than-flu][Artikel offGuardian]])
@@ -1022,6 +1028,11 @@ Sterblichkeit der gewöhnlichen Grippe [[https://de.wikipedia.org/wiki/Influenza
 
 Siehe auch: [[https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher][Corona versus Grippe, was ist gefährlicher]]
 
+Ioan Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31%
+mit großen regionalen Unterschieden. Dies liegt im Bereich der gewöhnlichen
+Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]]. Ioannidis Studie wurde von
+der WHO selber im Oktober veröffentlicht.
+
 ** Positivrate
 
 Das Robert-Koch Institut veröffentlicht jeden Mittwoch die bundesweiten
@@ -1042,6 +1053,9 @@ Die Auswertung des Statistischen Bundesamtes zu [[https://www.destatis.de/DE/The
 Lebenserwartung]] für das Jahr 2020 lässt keine besondere Übersterblichkeit für
 2020 erkennen. In der [[https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016][Übersicht der Einzeljahre]] sieht man deutlich, dass die
 Sterblichkeit in Deutschland im Jahr 2018 höher war als im Jahr 2020.
+
+Eine Studie des Klinikums Hochrhein in Waldshut-Tiengen sieht allerdings eine
+signifikante Übersterblichkeit als Folge der Coronamaßnahmen: [[https://www.n-tv.de/wissen/Angst-vor-Corona-koennte-toedlich-sein-article22165148.html][ntv]], [[https://deutsch.rt.com/inland/109105-studie-zur-corona-ubersterblichkeit][RT Deutsch]].
 
 *** Italien
 
@@ -1077,6 +1091,75 @@ support [...], that it is pursuing broadly appropriate policies to address the
 crisis (including safeguards to ensure that IMF funds are used for intended
 purposes)." Das Wort "broadly" und die Klammer sind erst um den [[https://web.archive.org/web/20201102084407/https://www.imf.org/en/About/FAQ/imf-response-to-covid-19][2.11.2020]]
 hinzugefügt worden.
+
+*** USA
+
+- [[https://www.youtube.com/watch?v=x6ak7n0zZdA][Krankenschwester aus New York enthüllt: "COVID-Patienten hätten nicht
+  sterben müssen"]]
+- US Staaten, in denen Behandlung mit Hydroxychloroquin untersagt wurde:
+  ([[https://www.nashp.org/wp-content/uploads/2020/03/State-covid-drug-chart-3-27-2020.pdf][National Academy for State Health Policy]]): New York, Nevada, Ohio, Idaho,
+  Kentucky, North Carolina, Texas. In Louisiana, Kansas und Missouri wurde
+  emfohlen, das Medikament nicht zu verschreiben.
+- [[https://www.statista.com/statistics/1109011/coronavirus-covid19-death-rates-us-by-state][Death rates from coronavirus (COVID-19) in the United States by state]]
+- Coronavirus Maßnahmen der US Bundesstaaten [[https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html][NY Times]], [[https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic][Wikipedia]]
+
+#+BEGIN_COMMENT
+
+| Bundesstaat          | Tote p. 100000 | Hydroxychloroquin |
+|----------------------+----------------+-------------------|
+| New Jersey           |         185185 |                   |
+| New York             |         173173 | Verboten          |
+| Massachusetts        |         148148 |                   |
+| Connecticut          |         132132 |                   |
+| Louisiana            |         130130 | Eingeschränkt     |
+| Rhode Island         |         117117 |                   |
+| Mississippi          |         117117 |                   |
+| District of Columbia |           9393 |                   |
+| North Dakota         |           8888 | Verboten          |
+| Arizona              |           8585 |                   |
+| Illinois             |           8484 |                   |
+| Michigan             |           8181 |                   |
+| Florida              |           8080 |                   |
+| South Carolina       |           7979 |                   |
+| Georgia              |           7878 |                   |
+| Delaware             |           7474 |                   |
+| Pennsylvania         |           7171 |                   |
+| Arkansas             |           7070 |                   |
+| Maryland             |           7070 |                   |
+| Indiana              |           7070 |                   |
+| Texas                |           6767 | Verboten          |
+| Alabama              |           6464 |                   |
+| South Dakota         |           6161 |                   |
+| Iowa                 |           6060 |                   |
+| Nevada               |           6060 | Verboten          |
+| New Mexico           |           5555 |                   |
+| Missouri             |           5454 | Eingeschränkt     |
+| Tennessee            |           5454 |                   |
+| Minnesota            |           4949 |                   |
+| Ohio                 |           4747 | Verboten          |
+| California           |           4646 |                   |
+| North Carolina       |           4444 |                   |
+| Virginia             |           4444 |                   |
+| Montana              |           4343 |                   |
+| Colorado             |           4242 |                   |
+| Wisconsin            |           4141 |                   |
+| Idaho                |           4040 | Verboten          |
+| Kansas               |           3939 | Eingeschränkt     |
+| Nebraska             |           3838 |                   |
+| Oklahoma             |           3737 |                   |
+| Kentucky             |           3636 | Verboten          |
+| New Hampshire        |           3636 |                   |
+| Washington           |           3333 |                   |
+| West Virginia        |           3030 |                   |
+| Puerto Rico          |           2828 |                   |
+| Wyoming              |           2222 |                   |
+| Utah                 |           2121 |                   |
+| Oregon               |           1717 |                   |
+| Hawaii               |           1616 |                   |
+| Alaska               |           1313 |                   |
+| Maine                |           1212 |                   |
+| Vermont              |             99 |                   |
+#+END_COMMENT
 
 *** Andere Länder
 
