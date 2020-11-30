@@ -37,11 +37,11 @@ ausgerufene Covid-19 Pandemie. Keine Entscheidung, sei es im großen wie im
 privaten kann zur Zeit getroffen werden ohne die Pandemie und ihre Folgen zu
 berücksichtigen.
 
-Viele Menschen leider unter den Schutzmaßnahmen. Das Spektrum reicht von
+Viele Menschen leiden unter den Schutzmaßnahmen. Das Spektrum reicht von
 leichten aber massenweisen Beeinträchtigungen des täglichen Lebens, über
 zerstörte Existenzen, verschobene dringende Behandlungen, Vereinsamung, Panik
 bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen. Auch die Panik
-widerum hat negative Folgen.
+wiederum hat negative Folgen.
 
 Es ist daher berechtigt, sich Zeit zu nehmen, über diese Pandemie
 nachzudenken.
@@ -73,7 +73,7 @@ Neue Erkenntnisse in Wissenschaft und Gesellschaft mussten sich oft gegen den
 erbitterten Widerstand der mächtigen Mehrheit durchsetzen.
 
 Es ist mir bewusst, dass Faktenfinder die Legitimität der Berufung auf den
-Zweifel bereits in Zweifel ziehen. Die interlektuelle Qualität dieser
+Zweifel bereits in Zweifel ziehen. Die intellektuelle Qualität dieser
 Argumentation ist offensichtlich.
 
 * Unvoreingenommenheit
@@ -100,8 +100,8 @@ Bevor die beiden Fragen nach der Evidenz und der Erklärung für die
 Gleichschaltung beantwortet werden, sollen zunächst Gründe für berechtigten
 Zweifel an der offiziellen Geschichte betrachtet werden.
 
-Besonders wichtig sind die letzten beiden Abschnitte über asymptotische
-Infektiösität und die Eignung von PCR Tests für den Nachweis von
+Besonders wichtig sind die letzten beiden Abschnitte über asymptomatische
+Infektiösität und die Eignung von PCR-Tests für den Nachweis von
 Infektionen. Diese beiden Aussagen sind die tragenden Säulen für die
 Behauptung einer weltweiten Pandemie und für die Begründung von Lockdowns.
 
@@ -202,7 +202,7 @@ unverantwortlich.]]
 
 *** Correctiv
 
-Correctiv ist eine Faktenchecker Organisation, die z.B. für Facebook
+Correctiv ist eine Faktenchecker-Organisation, die z.B. für Facebook
 entscheidet, was wahr und unwahr ist. Zum Thema Corona ist für Correctiv alles
 unwahr, was der WHO oder der Bundeskanzlerin widerspricht.
 
@@ -302,7 +302,7 @@ bekommen von Google die Wikipedia als erstes Suchergebnis präsentiert.
 ** Art der Kommunikation
 
 - Diffamierung
-- Unlaute Methoden, z.B. Vergleich mit Chemtrails, Echsenmenschen
+- Unlautere Methoden, z.B. Vergleich mit Chemtrails, Echsenmenschen
 - Keine saubere Verwendung von Begriffen: Testpositiv, infiziert, krank
 - Absolutzahlen
 - Massive Zensur auf YouTube
@@ -344,11 +344,11 @@ gestionale"]]
 Daniele Ganser beschreibt weitere Manipulationen in einem Vortrag vom 11.9.:
 [[https://www.youtube.com/watch?v=3gertJ5VFfM][Corona und die Medien]], wie z.B.:
 
-- Verwendung absoluter Zahlen oder Bezug
+- Verwendung absoluter Zahlen ohne Bezug
 - Gleichsetzung von Testpositiven mit Infizierten mit Hospitalisierten
 - Verwendung von suggestiven Bildern, teilweise ohne Bezug zur Meldung
 - Verschweigen von beruhigenden Informationen
-- Deklaration von Toten Verstorbenen Covid-Tote trotz abweichender oder
+- Deklaration von Verstorbenen als Covid-Tote trotz abweichender oder
   unbekannter Todesursache
 
 *** Panikpapier aus Deutschland und Österreich
@@ -398,7 +398,7 @@ Maßnahmen geäußert haben.
    Stanford
 2. [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Prof. Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und
    Infektionsepidemiologie und ehem. Leiter des Instituts für Medizinische
-   Mikrobiologie und Hygiene, Autor des Spiegel Bestsellers "Corona
+   Mikrobiologie und Hygiene, Autor des Spiegel-Bestsellers "Corona
    Fehlalarm?"
 3. [[https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya][Prof. Dr. Jay Bhattacharya]], Stanford
 4. [[https://de.wikipedia.org/wiki/Gerd_Gigerenzer][Prof. Dr. Gerd Gigerenzer]] - Psychologe, kritisiert die Panikmache
@@ -421,7 +421,7 @@ Maßnahmen geäußert haben.
 10. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
     regionale Gesundheitsdienste
 11. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
-    Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
+    Eignung von PCR-Tests zum Nachweis einer Infektion in der 4. Sitzung des
     Corona-Ausschuss
 12. Prof. Dr. Ines Kappstein - Fachärztin für Mikrobiologie, Virologie und
     Infektionsepigemiologie, Kritisierte die Masken, [[https://www.pnp.de/lokales/stadt-und-landkreis-passau/passau-stadt/Klinikum-distanziert-sich-von-seiner-Hygienikerin-3836110.html][Klinikleitung distanziert
@@ -446,7 +446,7 @@ Maßnahmen geäußert haben.
 22. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
 23. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
 24. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
-    Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
+    Entzündungserkrankungen, Autorin des Spiegel-Bestsellers "Corona
     Fehlalarm?"
 25. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
     Spitz zu Immunonutrition]]
@@ -823,7 +823,7 @@ verpflichtend machen]]
 
 *** Impfung
 
-Es gibt verschiedene Arten von Impfstoffen. Traditinonelle Impfstoffe beruhen
+Es gibt verschiedene Arten von Impfstoffen. Traditionelle Impfstoffe beruhen
 auf deaktivierten Viren. Neuartige Impfstoffe basieren auf genetischer
 Manipulation von Zellen des geimpften.
 
@@ -869,7 +869,7 @@ Der Oberregierungsrat Stephan Kohn aus der Abteilung Krisenmanagement und
 Bevölkerungsschutz des Innenministeriums ist bereits im Mai seiner Pflicht
 nachgekommen und hat in dem Gutachten "[[https://www.freidenker.org/fw17/wp-content/uploads/2020/05/200508-BMI_KM4.pdf][Coronakrise 2020 aus Sicht des Schutzes
 Kritischer Infrastrukturen]]" ausführlich die schädlichen Folgen der
-Coronamaßnahmen beschrieben. Er ist für seine Pflicherfüllung diszipliniert
+Coronamaßnahmen beschrieben. Er ist für seine Pflichterfüllung diszipliniert
 worden. Eine Diskussion fand nicht statt, obwohl Kohn für sein Papier
 hochrangige Experten konsultiert hat.
 
@@ -926,9 +926,9 @@ einkalkuliert und genau deswegen kann sich die Kanzlerin bereits jetzt
 festlegen."
 #+END_QUOTE
 
-** PCR Tests
+** PCR-Tests
 
-Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
+Drosten hat seinen PCR-Test entwickelt ohne eine Probe des Virus zu haben. Er
 nahm stattdessen aus seiner Datenbank typische Genfragmente eines Coronavirus,
 entwickelte für diesen einen Test und schickte den Test nach Wuhan. Weil der
 Test bei Patienten in Wuhan positiv war, behauptete er, dass der Test geeignet
@@ -943,13 +943,13 @@ Das [[https://dejure.org/gesetze/IfSG/2.html][Infektionsschutzgesetz]] definiert
 eines Krankheitserregers und seine nachfolgende Entwicklung oder Vermehrung im
 menschlichen Organismus".
 
-Der PCR Test ist allerhöchstens gegeignet, die Aufnahme eines
+Der PCR-Test ist allerhöchstens gegeignet, die Aufnahme eines
 Krankheitserregers nachzuweisen. Trotzdem wird irreführenderweise von
 Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
 
 - 97% falsche Testergebnisse durch das MVZ Labor seit April 2020
   https://www.youtube.com/watch?v=cFAq8CqN1Gg
-- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
+- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR-Tests viel zu empfindlich: "Ja, aber die
   Methode ist so empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus
   nachweisen kann. Wenn ein solcher Erreger zum Beispiel bei einer
   Krankenschwester mal eben einen Tag lang über die Nasenschleimhaut huscht,
@@ -962,18 +962,18 @@ Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
 - Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
   Labor macht sein eigenes Testverfahren.
   https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests
-- PCR Tests sind für Diagnosen nicht zugelassen. Das steht auf allen
-  Beschreibungen von PCR Tests.
+- PCR-Tests sind für Diagnosen nicht zugelassen. Das steht auf allen
+  Beschreibungen von PCR-Tests.
 - Es wird mit viel zu hoher Sensibilität getestet, z.B. [[https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert][bioscientia]]
   - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
     Nachweis eines einzelnen Gens je nach Spezifität als positiv für
     SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
     empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
-- Selbst die Tagesschau bestätigt, dass ein hoher CT Wert problematisch sei:
+- Selbst die Tagesschau bestätigt, dass ein hoher CT-Wert problematisch sei:
   6.9.2020 [[https://www.tagesschau.de/investigativ/ndr-wdr/gesundheitsaemter-corona-tests-101.html][Wie ansteckend sind die Patienten?]]
 - Eine humoristische Erklärung des CT-Werts: [[https://www.youtube.com/watch?v=meArNRzMiPw][Was bedeutet der CT-Wert?]]
 
-Ein großes Problem der PCR Tests ist ihre hohe Sensitivität. Es muss darum
+Ein großes Problem der PCR-Tests ist ihre hohe Sensitivität. Es muss darum
 sehr große Sorgfalt darauf verwendet werden, das Labor, Probenträger, Geräte
 und alle anderen Materialien nicht mit dem Virus zu verunreinigen. Bei der
 hohen Anzahl von Tests ist es umso schwieriger, Fehler zu vermeiden.
@@ -990,16 +990,16 @@ nicht zu verunreinigen.
 Es gibt inzwischen zahlreiche Beispiele von Spitzensportlern, die zunächst
 positiv und kurz darauf negativ getestet wurden: [[https://www.kicker.de/ad-absurdum-sechs-salzburger-erst-positiv-und-am-ende-doch-negativ-789296/artikel][1]]
 
-** Asymptotische Übertragung
+** Asymptomatische Übertragung
 
-Die umfangreihen Schutzmaßnahmen werden mit der Annahme begründet, dass selbst
+Die umfangreichen Schutzmaßnahmen werden mit der Annahme begründet, dass selbst
 Menschen ohne Krankheitssymptome die Covid-19 Erkrankung verbreiten
 könnten. Auch das Massenweise Testen von gesunden Menschen kann nur mit der
 Idee der asymptomatischen Übertragung begründet werden.
 
 Prof. Kämmerer erklärt in [[https://www.youtube.com/watch?v=3mZ8TsO8ot0][Corona-Ausschuß Sitzung 26]], dass es in der
 wissenschaftlichen Literatur bisher keinen Beweis für die Möglichkeit einer
-asymptotischen Übertragung gibt. Die ursprüngliche Behauptung Drosten's beruht
+asymptomatischen Übertragung gibt. Die ursprüngliche Behauptung Drosten's beruht
 auf der chinesischen Mitarbeiterin (Patient 0), die das Virus nach Deutschland
 gebracht habe. Es stellte sich jedoch später heraus, dass diese Mitarbeiterin
 Paracetamol genommen habe und Schüttelfrost hatte.
@@ -1044,9 +1044,9 @@ Sterblichkeit der gewöhnlichen Grippe [[https://de.wikipedia.org/wiki/Influenza
 
 Siehe auch: [[https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher][Corona versus Grippe, was ist gefährlicher]]
 
-Ioan Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31%
+John Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31%
 mit großen regionalen Unterschieden. Dies liegt im Bereich der gewöhnlichen
-Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]]. Ioannidis Studie wurde von
+Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]]. Ioannidis' Studie wurde von
 der WHO selber im Oktober veröffentlicht.
 
 ** Positivrate
@@ -1112,12 +1112,12 @@ hinzugefügt worden.
 
 - [[https://www.youtube.com/watch?v=x6ak7n0zZdA][Krankenschwester aus New York enthüllt: "COVID-Patienten hätten nicht
   sterben müssen"]]
-- US Staaten, in denen Behandlung mit Hydroxychloroquin untersagt wurde:
+- US-Staaten, in denen Behandlung mit Hydroxychloroquin untersagt wurde:
   ([[https://www.nashp.org/wp-content/uploads/2020/03/State-covid-drug-chart-3-27-2020.pdf][National Academy for State Health Policy]]): New York, Nevada, Ohio, Idaho,
   Kentucky, North Carolina, Texas. In Louisiana, Kansas und Missouri wurde
   emfohlen, das Medikament nicht zu verschreiben.
 - [[https://www.statista.com/statistics/1109011/coronavirus-covid19-death-rates-us-by-state][Death rates from coronavirus (COVID-19) in the United States by state]]
-- Coronavirus Maßnahmen der US Bundesstaaten [[https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html][NY Times]], [[https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic][Wikipedia]]
+- Coronavirus Maßnahmen der US-Bundesstaaten [[https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html][NY Times]], [[https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic][Wikipedia]]
 
 #+BEGIN_COMMENT
 
@@ -1194,11 +1194,11 @@ Korea,
 Für Portugal und die Schweiz ist der Graph nicht eindeutig. Wichtige Länder
 fehlen auf der Seite: China, Russia, Belarus, Brasil, Venezuela, Australia.
 
-Der Rubikon Artikel [[https://www.rubikon.news/artikel/die-medikamenten-tragodie][Die Medikamenten-Tragödie]] (29.9.2020) dokumentiert, dass
+Der Rubikon-Artikel [[https://www.rubikon.news/artikel/die-medikamenten-tragodie][Die Medikamenten-Tragödie]] (29.9.2020) dokumentiert, dass
 zum einen die Zeitverläufe der Sterblichkeiten mit ihrer kurzen Dauer und
 hohem Ausschlag in den Ländern mit Übersterblichkeit nicht typisch sind für
 eine Viruserkrankung. Vielmehr seien Empfehlungen der WHO gefolgt worden und
-Patienten mit hohen Dosen Nebenwirkungsreicher Medikamente zu Tode terapiert
+Patienten mit hohen Dosen nebenwirkungsreicher Medikamente zu Tode therapiert
 worden. Auch die Empfehlung zur Intubation (künstliche Beatmung) trage eine
 Mitschuld.
 
@@ -1446,8 +1446,8 @@ mag von Tag zu Tage leben.
 
 * Weitere Links
 
-- https://corona-ausschuss.de - Vier Anwälte haben in dutzdenden,
-  mehrstündigen Live-Sitzungen mit Experten untersuchen, warum die Regierungen
+- https://corona-ausschuss.de - Vier Anwälte haben in dutzenden,
+  mehrstündigen Live-Sitzungen mit Experten untersucht, warum die Regierungen
   beispiellose Beschränkungen verhängt haben und welche Folgen diese für die
   Menschen hatten und haben.
 - Unerhört! Film: https://vimeo.com/471959768
@@ -1557,13 +1557,13 @@ Bundesverfassungsgericht anzurufen.
 
 * Literatur
 
-- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel Bestseller)
+- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel-Bestseller)
 - [[https://mediashop.at/buecher/lockdown-2020][Lockdown 2020]], Besprechung [[https://www.nachdenkseiten.de/?p=65867][Nachdenkseiten]], [[https://www.nachdenkseiten.de/?p=65968][Interview]]
 - Karina Reiß und Sucharit Bhakdi: Corona Fehlalarm? Daten, Fakten,
   Hintergründe. Goldegg Verlag, Berlin/Wien 2020, ISBN 978-3-99060-191-4 (159
-  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]] (Spiegel Bestseller)
-- Clemens G. Arvay: Wir können es besser (Spiegel Bestseller)
-- Wolfgang Kubicki: Meinungsunfreiheit (Spiegel Bestseller)
+  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]] (Spiegel-Bestseller)
+- Clemens G. Arvay: Wir können es besser (Spiegel-Bestseller)
+- Wolfgang Kubicki: Meinungsunfreiheit (Spiegel-Bestseller)
 
 * Lustiges, Schönes, Ermutigendes
 
@@ -1571,7 +1571,8 @@ Kabarett:
 
 - Die Echse über Sicherheitsmaßnahmen im Tierreich [[https://www.youtube.com/watch?v=zg3rV_vZmsU][YT]]
 - Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
-- Corona Song von Dieter Hallervorden [[https://www.youtube.com/watch?v=k4OFXkcn24Q][YT]]
+- Virusland von Schwarze Grütze
+- Corona-Song von Dieter Hallervorden [[https://www.youtube.com/watch?v=k4OFXkcn24Q][YT]]
 - Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
 - Corona und das Grundgesetz - Satire | Die Mathias Richling Show [[https://www.youtube.com/watch?v=KiDRu5hwvI0][YT]]
 - Siehe den Abschnitt über Uwe Steimle
